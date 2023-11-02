@@ -5,17 +5,17 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 
 ## Table of Contents
 
-- [About Neuro-Symbolic AI](#about-neuro-symbolic-ai)
-- [Cognition in AI - 2023 synopsis](#cognition-in-ai)
-- [Symbolic AI major projects](#symbolic-ai)
-- [Reasining AI major projects](#reasoning-ai)
-- [Knowledge AI major projects](#knowledge-ai)
-- [Memory AI major projects](memory-ai)
-- [Meta-level control major projects](meta-AI)
-- [Generative AI - Impactful projects](#generative-ai)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+1.  [About Neuro-Symbolic AI](#about-neuro-symbolic-ai)
+2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
+3.  [Symbolic AI major projects](#symbolic-ai)
+4.  [Reasining AI major projects](#reasoning-ai)
+5.  [Knowledge AI major projects](#knowledge-ai)
+6.  [Memory AI major projects](memory-ai)
+7.  [Meta-level control major projects](meta-AI)
+8.  [Generative AI - Impactful projects](#generative-ai)
+9.  [Usage](#usage)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ## About Neuro-Symbolic AI
 
