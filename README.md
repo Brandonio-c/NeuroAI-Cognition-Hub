@@ -30,10 +30,10 @@ Cognition within AI is an essential aspect of building machines that can think a
 ## Projects to categorise -- under-development
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Publication Year  |     Name      |  
+| -------------     | ------------- |
+|       2022        | RoboCat       |
+|       2003        | DAMLJessKB    |
 
 
 ## Usage
