@@ -30,10 +30,10 @@ Cognition within AI is an essential aspect of building machines that can think a
 ## Projects to categorise -- under-development
 
 
-| Publication Year  |     Name      |      Description     |
-| -------------     | ------------- |   -------------      |
-|       2022        | RoboCat       |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |
-|       2003        | DAMLJessKB    |A Tool for Reasoning with the Semantic Web |
+| Publication Year | Name | Description | 
+| ------------- | ------------- | ------------- |
+| 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |
+| 2003 | DAMLJessKB |A Tool for Reasoning with the Semantic Web |
 
 
 ## Usage
