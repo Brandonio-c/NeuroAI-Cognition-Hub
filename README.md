@@ -14,7 +14,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 7.  [Memory AI major projects](memory-ai)
 8.  [Meta-level control major projects](meta-AI)
 9.  [Generative AI - Impactful projects](#generative-ai)
-10. [Projects to categorise -- under-development](#Projects to categorise -- under-development)
+10. [Projects to categorise -- under-development](#Projects-to-categorise---under-development)
 11. [Usage](#usage)
 12. [Contributing](#contributing)
 13. [License](#license)
