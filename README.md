@@ -7,16 +7,17 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 
 1.  [About Neuro-Symbolic AI](#about-neuro-symbolic-ai)
 2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
-3.  [Symbolic AI major projects](#symbolic-ai)
-4.  [Reasining AI major projects](#reasoning-ai)
-5.  [Knowledge AI major projects](#knowledge-ai)
-6.  [Memory AI major projects](memory-ai)
-7.  [Meta-level control major projects](meta-AI)
-8.  [Generative AI - Impactful projects](#generative-ai)
-9.  [Projects to categorise (under - development)](#under-dev)
-10.  [Usage](#usage)
-11. [Contributing](#contributing)
-12. [License](#license)
+3.  [Featured](#featured)
+4.  [Symbolic AI major projects](#symbolic-ai)
+5.  [Reasining AI major projects](#reasoning-ai)
+6.  [Knowledge AI major projects](#knowledge-ai)
+7.  [Memory AI major projects](memory-ai)
+8.  [Meta-level control major projects](meta-AI)
+9.  [Generative AI - Impactful projects](#generative-ai)
+10.  [Projects to categorise -- under-development](#under-dev)
+11.  [Usage](#usage)
+12. [Contributing](#contributing)
+13. [License](#license)
 
 ## About Neuro-Symbolic AI
 
@@ -25,6 +26,14 @@ Neuro-symbolic AI is an interdisciplinary approach that combines symbolic reason
 ## Cognition in AI
 
 Cognition within AI is an essential aspect of building machines that can think and understand like humans. We've gathered resources related to cognitive models, cognitive architectures, and AI systems that simulate human-like thinking processes.
+
+## Projects to categorise -- under-development
+
+
+| # | Name | Description | Paper Link | GitHub Link | Webpage Link | Publication Date |
+| ------------- | ------------- |
+| DAMLJessKB | A Tool for Reasoning with the Semantic Web | https://ieeexplore.ieee.org/document/1200733 | N/A | 2003 |
+| RoboCat |  A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming | https://ieeexplore.ieee.org/document/9488275| N/A | 2022 |
 
 ## Usage
 
