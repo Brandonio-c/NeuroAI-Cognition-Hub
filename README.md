@@ -38,8 +38,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2021 | Crema | Logical Credal Networks | https://arxiv.org/abs/2109.12240 | https://github.com/radum2275/crema |
 | 2021 | DeepStochLog | Neural Stochastic Logic Programming | https://arxiv.org/abs/2106.12574 | https://github.com/ML-KULeuven/deepstochlog |
 | 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore-ieee-org.proxy-um.researchport.umd.edu/document/9415044 | https://github.com/songtaogithub/LNN |
-| 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/)
- |
+| 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/) |
 | | | | | |
 | | | | | |
 | | | | | |
