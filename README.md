@@ -44,7 +44,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2019 | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | https://arxiv.org/abs/1905.06088 | N/A |
 | 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/) |
 | 2018 | KBNN | A Semantic Loss Function for Deep Learning with Symbolic Knowledge | http://proceedings.mlr.press/v80/xu18h.html | https://github.com/npepperUQLab/Knowledge-Based-Neural-Network- |
-| 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science/article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
+| 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science /article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
 | | | | | |
 | | | | | |
 
