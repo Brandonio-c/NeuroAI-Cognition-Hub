@@ -39,7 +39,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2021 | SOFAI | Thinking Fast and Slow in AI:the Role of Metacognition | https://arxiv.org/abs/2110.01834 | https://sites.google.com/view/sofai/home |
 | 2021 | Crema | Logical Credal Networks | https://arxiv.org/abs/2109.12240 | https://github.com/radum2275/crema |
 | 2021 | DeepStochLog | Neural Stochastic Logic Programming | https://arxiv.org/abs/2106.12574 | https://github.com/ML-KULeuven/deepstochlog |
-| 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore-ieee-org.proxy-um.researchport.umd.edu/document/9415044 | https://github.com/songtaogithub/LNN |
+| 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore.ieee.org/document/9415044 | https://github.com/songtaogithub/LNN |
 | 2020 | LTN | Logic Tensor Networks | https://arxiv.org/abs/2012.13635 | https://github.com/logictensornetworks/logictensornetworks |
 | 2019 | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | https://arxiv.org/abs/1905.06088 | N/A |
 | 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/) |
