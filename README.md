@@ -5,7 +5,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 
 ## Table of Contents
 
-1.  [About Neuro-Symbolic AI](#about-neuro-symbolic-ai)
+1.  [About Neuro-Symbolic AI and the Common Model of Cognition](#about-neuro-symbolic-ai)
 2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
 3.  [Featured](#featured)
 4.  [Symbolic AI major projects](#symbolic-ai)
@@ -34,8 +34,16 @@ Cognition within AI is an essential aspect of building machines that can think a
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |https://ieeexplore.ieee.org/document/9488275 | N/A |
 | 2003 | DAMLJessKB |A Tool for Reasoning with the Semantic Web |https://ieeexplore.ieee.org/document/1200733 | N/A |
-| 2023 | | | | |
-
+| 2023 | Cyc by Cycorp |Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | https://arxiv.org/abs/2308.04445 | https://github.com/cycorp |
+| 2021 | Crema | Logical Credal Networks | https://arxiv.org/abs/2109.12240 | https://github.com/radum2275/crema |
+| 2021 | DeepStochLog | Neural Stochastic Logic Programming | https://arxiv.org/abs/2106.12574 | https://github.com/ML-KULeuven/deepstochlog |
+| 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore-ieee-org.proxy-um.researchport.umd.edu/document/9415044 | https://github.com/songtaogithub/LNN |
+| 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/)
+ |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
 ## Usage
 
