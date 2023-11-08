@@ -8,8 +8,8 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 1.  [About Neuro-Symbolic AI and the Common Model of Cognition](#about-neuro-symbolic-ai)
 2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
 3.  [Featured](#featured)
-4.  [Symbolic AI major projects](#symbolic-ai)
-5.  [Reasoning AI major projects](#reasoning-ai)
+4.  [Reasoning AI major projects](#reasoning-ai)
+5.  [Symbolic AI major projects](#symbolic-ai)
 6.  [Knowledge AI major projects](#knowledge-ai)
 7.  [Memory AI major projects](memory-ai)
 8.  [Meta-level control major projects](meta-AI)
@@ -30,16 +30,16 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Featured 
 
-## Symbolic AI major projects
+
+## Reasoning AI major projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| | | | | |
+| 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |https://ieeexplore.ieee.org/document/9488275 | N/A |
 | | | | | |
 | | | | | |
 
-
-## Reasoning AI major projects
+## Symbolic AI major projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
