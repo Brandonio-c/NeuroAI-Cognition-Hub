@@ -123,8 +123,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2022 | Causal Relation Benchmark | Knowledge Graph Embeddings for Causal Relation
-Prediction| https://ceur-ws.org/Vol-3342/paper-8.pdf | https://zenodo.org/records/7195904 |
+| 2022 | Causal Relation Benchmark | Knowledge Graph Embeddings for Causal Relation Prediction | https://ceur-ws.org/Vol-3342/paper-8.pdf | https://zenodo.org/records/7195904 |
 | 2022 | Wikidata Causal Event Triple Data | Event Prediction using Case-Based Reasoning over Knowledge Graphs | https://arxiv.org/abs/2309.12423 | https://zenodo.org/records/7196049 |
 | 2022 | Switchboard | Collection of Recognition of conversational speech over telephone | https://arxiv.org/abs/2206.06192 | https://benchmarks.ai/switchboard |
 | 2019 | LitePyramid | Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation | https://aclanthology.org/N19-1072/ | https://github.com/OriShapira/LitePyramids |
