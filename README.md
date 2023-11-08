@@ -14,10 +14,11 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 7.  [Memory AI major projects](memory-ai)
 8.  [Meta-level control major projects](meta-AI)
 9.  [Generative AI - Impactful projects](#generative-ai)
-10. [Projects to categorise -- under-development](#Projects-to-categorise---under-development)
-11. [Usage](#usage)
-12. [Contributing](#contributing)
-13. [License](#license)
+10. [Benchmarks](#benchmarks-ai)
+11. [Projects to categorise -- under-development](#Projects-to-categorise---under-development)
+12. [Usage](#usage)
+13. [Contributing](#contributing)
+14. [License](#license)
 
 ## About Neuro-Symbolic AI
 
@@ -27,6 +28,16 @@ Neuro-symbolic AI is an interdisciplinary approach that combines symbolic reason
 
 Cognition within AI is an essential aspect of building machines that can think and understand like humans. We've gathered resources related to cognitive models, cognitive architectures, and AI systems that simulate human-like thinking processes.
 
+
+## Benchmarks 
+
+| Publication Year | Name | Description | Paper Link | GitHub Link |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2012 | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | https://arxiv.org/abs/1207.4708 | https://github.com/Farama-Foundation/Arcade-Learning-Environment |
+| 2009 | ImageNet |an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images | https://ieeexplore.ieee.org/document/5206848 | 
+https://www.image-net.org/ |
+
+| 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
 ## Projects to categorise -- under-development
 
 
@@ -45,6 +56,13 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/) |
 | 2018 | KBNN | A Semantic Loss Function for Deep Learning with Symbolic Knowledge | http://proceedings.mlr.press/v80/xu18h.html | https://github.com/npepperUQLab/Knowledge-Based-Neural-Network- |
 | 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science /article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 | | | | | |
 | | | | | |
 
