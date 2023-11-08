@@ -96,9 +96,13 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2022 | BRAID | Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations | https://arxiv.org/abs/2011.13354 | https://ec.ai/ |
 | 2021 | SOFAI | Thinking Fast and Slow in AI:the Role of Metacognition | https://arxiv.org/abs/2110.01834 | https://sites.google.com/view/sofai/home |
+| 2021 | SKATE | A Natural Language Interface for Encoding Structured Knowledge | https://arxiv.org/abs/2010.10597 | https://ec.ai/ |
+| 2020 | GLUCOSE | GeneraLized and COntextualized Story Explanations | https://arxiv.org/abs/2009.07758 | https://ec.ai/ |
+| 2023 | CORA | Elemental AI Cognition product | N/A | https://groundhog-shallot-pen6. squarespace.com/explicable-insights|
 | | | | | |
-| | | | | |
+
 
 ## Generative AI - Impactful projects
 
@@ -113,8 +117,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2022 | Causal Relation Benchmark | Knowledge Graph Embeddings for Causal Relation
-Prediction
- | https://ceur-ws.org/Vol-3342/paper-8.pdf | https://zenodo.org/records/7195904 |
+Prediction| https://ceur-ws.org/Vol-3342/paper-8.pdf | https://zenodo.org/records/7195904 |
+| 2022 | Wikidata Causal Event Triple Data | Event Prediction using Case-Based Reasoning over Knowledge Graphs | https://arxiv.org/abs/2309.12423 | https://zenodo.org/records/7196049 |
 | 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
 | 2012 | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | https://arxiv.org/abs/1207.4708 | https://github.com/Farama-Foundation/Arcade-Learning-Environment |
 | 2012 | MNIST | Database of Handwritten Digit Images for Machine Learning Research | https://ieeexplore.ieee.org/document/6296535 | http://yann.lecun.com/exdb/mnist/ |
