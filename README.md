@@ -96,11 +96,12 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023 | CORA | Elemental AI Cognition product | N/A | https://groundhog-shallot-pen6. squarespace.com/explicable-insights|
+| 2023 | COGENT | Elemental AI Cognition product | N/A | N/A |
 | 2022 | BRAID | Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations | https://arxiv.org/abs/2011.13354 | https://ec.ai/ |
 | 2021 | SOFAI | Thinking Fast and Slow in AI:the Role of Metacognition | https://arxiv.org/abs/2110.01834 | https://sites.google.com/view/sofai/home |
 | 2021 | SKATE | A Natural Language Interface for Encoding Structured Knowledge | https://arxiv.org/abs/2010.10597 | https://ec.ai/ |
 | 2020 | GLUCOSE | GeneraLized and COntextualized Story Explanations | https://arxiv.org/abs/2009.07758 | https://ec.ai/ |
-| 2023 | CORA | Elemental AI Cognition product | N/A | https://groundhog-shallot-pen6. squarespace.com/explicable-insights|
 | | | | | |
 
 
