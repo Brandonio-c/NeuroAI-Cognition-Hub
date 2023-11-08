@@ -64,13 +64,16 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023 | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | https://arxiv.org/abs/2208.01174 | https://github.com/cognitiveailab/TextWorldExpress, https://github.com/microsoft/TextWorld |
+| 2023 | ParlAI |  python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | https://github.com/facebookresearch/ParlAI, https://parl.ai/ |
+| 2022 | ScienceWorld | ScienceWorld: Is your Agent Smarter than a 5th Grader? | https://arxiv.org/abs/2203.07540 | https://github.com/allenai/ScienceWorld |
 | 2021 | N/A | Neuro-Symbolic Reinforcement Learning with First-Order Logic| https://arxiv.org/abs/2110.10963 | https://ibm.github.io/neuro-symbolic-ai/toolkit/ |
 | 2021 | N/A | Neuro-Symbolic Approaches for Text-Based Policy Learning | https://aclanthology.org/2021.emnlp-main.245/ | N/A|
 | 2020 | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | https://arxiv.org/abs/2010.03790 | https://github.com/IBM/commonsense-rl |
 | 2018 | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft)| https://github.com/microsoft/jericho |
 | | | | | |
-| | | | | |
-| | | | | |
+
+<img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4">
+
 
 ## Memory AI major projects
 
@@ -92,8 +95,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| | | | | |
-| | | | | |
+| 2023 | CodeLLama | | | |
+| 2021 | ChatGPT | | | |
 | | | | | |
 
 ## Benchmarks 
