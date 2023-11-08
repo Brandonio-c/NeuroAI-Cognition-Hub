@@ -8,8 +8,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 1.  [About Neuro-Symbolic AI and the Common Model of Cognition](#about-neuro-symbolic-ai)
 2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
 3.  [Featured](#featured)
-4.  [Reasoning AI major projects](#reasoning-ai)
-5.  [Symbolic AI major projects](#symbolic-ai)
+4.  [Symbolic Reasoning AI major projects](#reasoning-ai)
 6.  [Knowledge AI major projects](#knowledge-ai)
 7.  [Memory AI major projects](memory-ai)
 8.  [Meta-level control major projects](meta-AI)
@@ -28,29 +27,47 @@ Neuro-symbolic AI is an interdisciplinary approach that combines symbolic reason
 
 Cognition within AI is an essential aspect of building machines that can think and understand like humans. We've gathered resources related to cognitive models, cognitive architectures, and AI systems that simulate human-like thinking processes.
 
+### The Grounding Problem 
+
+### The Common Model of Cognition
+
 ## Featured 
 
+### OpenCog
+  > https://github.com/opencog
 
-## Reasoning AI major projects
+
+
+## Symbolic Reasoning AI major projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023 | Cyc by Cycorp |Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | https://arxiv.org/abs/2308.04445 | https://github.com/cycorp |
+| 2022 | N/A | A Semantic Framework for Neural-Symbolic Computing | https://arxiv.org/abs/2212.12050 | N/A 
 | 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |https://ieeexplore.ieee.org/document/9488275 | N/A |
+| 2021 | Crema | Logical Credal Networks | https://arxiv.org/abs/2109.12240 | https://github.com/radum2275/crema |
+| 2021 | DeepStochLog | Neural Stochastic Logic Programming | https://arxiv.org/abs/2106.12574 | https://github.com/ML-KULeuven/deepstochlog |
+| 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore.ieee.org/document/9415044 | https://github.com/songtaogithub/LNN |
+| 2020 | LTN | Logic Tensor Networks | https://arxiv.org/abs/2012.13635 | https://github.com/logictensornetworks/logictensornetworks |
+| 2019 | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | https://arxiv.org/abs/1905.06088 | N/A |
+| 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/) |
+| 2018 | KBNN | A Semantic Loss Function for Deep Learning with Symbolic Knowledge | http://proceedings.mlr.press/v80/xu18h.html | https://github.com/npepperUQLab/Knowledge-Based-Neural-Network- |
+| 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science /article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
+| 2003 | DAMLJessKB |A Tool for Reasoning with the Semantic Web |https://ieeexplore.ieee.org/document/1200733 | N/A |
 | | | | | |
 | | | | | |
 
-## Symbolic AI major projects
 
-| Publication Year | Name | Description | Paper Link | GitHub Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| | | | | |
-| | | | | |
-| | | | | |
 
 ## Knowledge AI major projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023 | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | https://arxiv.org/abs/2208.01174 | https://github.com/cognitiveailab/TextWorldExpress, https://github.com/microsoft/TextWorld |
+| 2021 | N/A | Neuro-Symbolic Reinforcement Learning with First-Order Logic| https://arxiv.org/abs/2110.10963 | https://ibm.github.io/neuro-symbolic-ai/toolkit/ |
+| 2021 | N/A | Neuro-Symbolic Approaches for Text-Based Policy Learning | https://aclanthology.org/2021.emnlp-main.245/ | N/A|
+| 2020 | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | https://arxiv.org/abs/2010.03790 | https://github.com/IBM/commonsense-rl |
+| 2018 | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft)| https://github.com/microsoft/jericho |
 | | | | | |
 | | | | | |
 | | | | | |
@@ -67,7 +84,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| | | | | |
+| 2021 | SOFAI | Thinking Fast and Slow in AI:the Role of Metacognition | https://arxiv.org/abs/2110.01834 | https://sites.google.com/view/sofai/home |
 | | | | | |
 | | | | | |
 
@@ -85,33 +102,16 @@ Cognition within AI is an essential aspect of building machines that can think a
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
 | 2012 | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | https://arxiv.org/abs/1207.4708 | https://github.com/Farama-Foundation/Arcade-Learning-Environment |
+| 2012 | MNIST | Database of Handwritten Digit Images for Machine Learning Research | https://ieeexplore.ieee.org/document/6296535 | http://yann.lecun.com/exdb/mnist/ |
+| 2019 | GLUE | https://gluebenchmark.com/ | https://arxiv.org/abs/1804.07461 | https://gluebenchmark.com/ |
 | 2009 | ImageNet |Image database organized according to the WordNet hierarchy (currently only the nouns)| https://ieeexplore.ieee.org/document/5206848 | https://www.image-net.org/ |
-
+| 2022 | Switchboard | Collection of Recognition of conversational speech over telephone | https://arxiv.org/abs/2206.06192 | https://benchmarks.ai/switchboard |
 
 ## Projects to categorise -- under-development
 
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |https://ieeexplore.ieee.org/document/9488275 | N/A |
-| 2003 | DAMLJessKB |A Tool for Reasoning with the Semantic Web |https://ieeexplore.ieee.org/document/1200733 | N/A |
-| 2023 | Cyc by Cycorp |Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | https://arxiv.org/abs/2308.04445 | https://github.com/cycorp |
-| 2022 | N/A | A Semantic Framework for Neural-Symbolic Computing | https://arxiv.org/abs/2212.12050 | N/A |
-| 2021 | SOFAI | Thinking Fast and Slow in AI:the Role of Metacognition | https://arxiv.org/abs/2110.01834 | https://sites.google.com/view/sofai/home |
-| 2021 | Crema | Logical Credal Networks | https://arxiv.org/abs/2109.12240 | https://github.com/radum2275/crema |
-| 2021 | DeepStochLog | Neural Stochastic Logic Programming | https://arxiv.org/abs/2106.12574 | https://github.com/ML-KULeuven/deepstochlog |
-| 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore.ieee.org/document/9415044 | https://github.com/songtaogithub/LNN |
-| 2020 | LTN | Logic Tensor Networks | https://arxiv.org/abs/2012.13635 | https://github.com/logictensornetworks/logictensornetworks |
-| 2019 | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | https://arxiv.org/abs/1905.06088 | N/A |
-| 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/) |
-| 2018 | KBNN | A Semantic Loss Function for Deep Learning with Symbolic Knowledge | http://proceedings.mlr.press/v80/xu18h.html | https://github.com/npepperUQLab/Knowledge-Based-Neural-Network- |
-| 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science /article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
