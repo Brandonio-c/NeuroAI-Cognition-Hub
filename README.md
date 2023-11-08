@@ -33,11 +33,12 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
 | 2012 | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | https://arxiv.org/abs/1207.4708 | https://github.com/Farama-Foundation/Arcade-Learning-Environment |
 | 2009 | ImageNet |an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images | https://ieeexplore.ieee.org/document/5206848 | 
 https://www.image-net.org/ |
 
-| 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
+
 ## Projects to categorise -- under-development
 
 
