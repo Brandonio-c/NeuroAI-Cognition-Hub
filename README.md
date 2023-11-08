@@ -66,11 +66,20 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2023 | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | https://arxiv.org/abs/2208.01174 | https://github.com/cognitiveailab/TextWorldExpress, https://github.com/microsoft/TextWorld |
 | 2023 | ParlAI |  python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | https://github.com/facebookresearch/ParlAI, https://parl.ai/ |
 | 2022 | ScienceWorld | ScienceWorld: Is your Agent Smarter than a 5th Grader? | https://arxiv.org/abs/2203.07540 | https://github.com/allenai/ScienceWorld |
+| 2022 | D&D as a Dialogue | Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence | https://arxiv.org/abs/2210.07109 | N/A |
+| 2022 | QALD | QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers | https://arxiv.org/abs/2202.00120 | https://github.com/ag-sc/QALD/tree/master |
+| 2022 | Foresee | Knowledge-Based News Event Analysis and Forecasting Toolkit | https://www.ijcai.org/proceedings/2022/850 | N/A |
 | 2021 | N/A | Neuro-Symbolic Reinforcement Learning with First-Order Logic| https://arxiv.org/abs/2110.10963 | https://ibm.github.io/neuro-symbolic-ai/toolkit/ |
 | 2021 | N/A | Neuro-Symbolic Approaches for Text-Based Policy Learning | https://aclanthology.org/2021.emnlp-main.245/ | N/A|
+| 2021 | N/A | Human Schema Curation via Causal Association Rule Mining | https://arxiv.org/abs/2104.08811 | links (including KAIROS links) inside of paper |
 | 2020 | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | https://arxiv.org/abs/2010.03790 | https://github.com/IBM/commonsense-rl |
+| 2020 | KBQA (IBM) | Leveraging Abstract Meaning Representation for Knowledge Base Question Answering | https://arxiv.org/abs/2012.01707 | https://github.com/IBM/kbqa-relation-linking |
+| 2019 | KAIROS | Knowledge-directed Artificial Intelligence Reasoning Over Schemas | N/A (not available yet) | https://www.darpa.mil/program/knowledge-directed -artificial-intelligence-reasoning-over-schemas |
+| 2019 | KBTE | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks| https://arxiv.org/abs/1911.02060 | https://github.com/IBM/knowledge-enabled-textual-entailment|
 | 2018 | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft)| https://github.com/microsoft/jericho |
-| | | | | |
+| 2007 | GeoQuery| a bridge between the Gene Expression Omnibus (GEO) and BioConductor | https://academic.oup.com/bioinformatics /article/23/14/1846/190290 | https://github.com/seandavi/GEOquery |
+
+
 
 <img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4">
 
@@ -103,6 +112,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2022 | Causal Relation Benchmark | Knowledge Graph Embeddings for Causal Relation
+Prediction
+ | https://ceur-ws.org/Vol-3342/paper-8.pdf | https://zenodo.org/records/7195904 |
 | 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
 | 2012 | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | https://arxiv.org/abs/1207.4708 | https://github.com/Farama-Foundation/Arcade-Learning-Environment |
 | 2012 | MNIST | Database of Handwritten Digit Images for Machine Learning Research | https://ieeexplore.ieee.org/document/6296535 | http://yann.lecun.com/exdb/mnist/ |
