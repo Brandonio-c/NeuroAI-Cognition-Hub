@@ -7,8 +7,9 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 
 1.  [About Neuro-Symbolic AI and the Common Model of Cognition](#about-neuro-symbolic-ai)
 2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
-3.  [Featured](#featured)
-4.  [Symbolic Reasoning AI major projects](#reasoning-ai)
+3.  [Featured](#featured)\
+4.  [Useful AI tools](#useful-tools)
+5.  [Symbolic Reasoning AI major projects](#reasoning-ai)
 6.  [Knowledge representation major projects](#knowledge-ai)
 7.  [Memory AI major projects](memory-ai)
 8.  [Meta-level control major projects](meta-AI)
@@ -34,9 +35,22 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Featured 
 
+### Deep Learning Is Hitting a Wall - Gary Marcus 
+  > https://nautil.us/deep-learning-is-hitting-a-wall-238440/
+
 ### OpenCog
   > https://github.com/opencog
 
+## Useful AI tools 
+
+### DALLE-2
+  > https://openai.com/dall-e-2
+
+### ChatGPT 
+  > https://chat.openai.com/
+
+### Code llama
+  > https://codellama.dev/about
 
 
 ## Symbolic Reasoning AI major projects
@@ -46,17 +60,19 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2023 | Cyc by Cycorp |Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | https://arxiv.org/abs/2308.04445 | https://github.com/cycorp |
 | 2022 | N/A | A Semantic Framework for Neural-Symbolic Computing | https://arxiv.org/abs/2212.12050 | N/A 
 | 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |https://ieeexplore.ieee.org/document/9488275 | N/A |
+| 2022 | LinkBERT | Pretraining Language Models with Document Links | https://arxiv.org/abs/2203.15827 | https://github.com/michiyasunaga/LinkBERT |
 | 2021 | Crema | Logical Credal Networks | https://arxiv.org/abs/2109.12240 | https://github.com/radum2275/crema |
 | 2021 | DeepStochLog | Neural Stochastic Logic Programming | https://arxiv.org/abs/2106.12574 | https://github.com/ML-KULeuven/deepstochlog |
 | 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore.ieee.org/document/9415044 | https://github.com/songtaogithub/LNN |
 | 2020 | LTN | Logic Tensor Networks | https://arxiv.org/abs/2012.13635 | https://github.com/logictensornetworks/logictensornetworks |
+| 2020 | SenseBERT | Driving Some Sense into BERT | https://arxiv.org/abs/1908.05646 | https://github.com/AI21Labs/sense-bert |
 | 2019 | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | https://arxiv.org/abs/1905.06088 | N/A |
+| 2019 | BART (Meta) | Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | https://arxiv.org/abs/1910.13461 | https://github.com/facebookresearch/bart_ls |
 | 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/) |
 | 2018 | KBNN | A Semantic Loss Function for Deep Learning with Symbolic Knowledge | http://proceedings.mlr.press/v80/xu18h.html | https://github.com/npepperUQLab/Knowledge-Based-Neural-Network- |
+| 2018 | BERT (Google) |  Pre-training of Deep Bidirectional Transformers for Language Understanding | https://arxiv.org/abs/1810.04805 | https://github.com/google-research/bert |
 | 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science /article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
 | 2003 | DAMLJessKB |A Tool for Reasoning with the Semantic Web |https://ieeexplore.ieee.org/document/1200733 | N/A |
-| | | | | |
-| | | | | |
 
 
 
@@ -65,7 +81,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023 | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | https://arxiv.org/abs/2208.01174 | https://github.com/cognitiveailab/TextWorldExpress, https://github.com/microsoft/TextWorld |
-| 2023 | ParlAI |  python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | https://github.com/facebookresearch/ParlAI, https://parl.ai/ |
+| 2023 | ParlAI |  Python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | https://github.com/facebookresearch/ParlAI, https://parl.ai/ |
 | 2023 | NeuroConcept | Compositional diversity in visual concept learning | https://arxiv.org/abs/2305.19374 | N/A yet  |
 | 2022 | ScienceWorld | ScienceWorld: Is your Agent Smarter than a 5th Grader? | https://arxiv.org/abs/2203.07540 | https://github.com/allenai/ScienceWorld |
 | 2022 | D&D as a Dialogue | Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence | https://arxiv.org/abs/2210.07109 | N/A |
@@ -79,6 +95,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2019 | KAIROS | Knowledge-directed Artificial Intelligence Reasoning Over Schemas | N/A (not available yet) | https://www.darpa.mil/program/knowledge-directed -artificial-intelligence-reasoning-over-schemas |
 | 2019 | KBTE | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks| https://arxiv.org/abs/1911.02060 | https://github.com/IBM/knowledge-enabled-textual-entailment|
 | 2018 | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft)| https://github.com/microsoft/jericho |
+| 2014 | WikiData | a free collaborative knowledgebase | https://dl.acm.org/doi/10.1145/2629489 | https://github.com/Wikidata |
 | 2007 | GeoQuery| a bridge between the Gene Expression Omnibus (GEO) and BioConductor | https://academic.oup.com/bioinformatics /article/23/14/1846/190290 | https://github.com/seandavi/GEOquery |
 
 
@@ -102,22 +119,20 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2022 | BRAID | Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations | https://arxiv.org/abs/2011.13354 | https://ec.ai/ |
 | 2022 | FactPEGASUS | Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization | https://arxiv.org/abs/2205.07830 | https://github.com/meetdavidwan/factpegasus |
 | 2022 | FactGraph | FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations | https://arxiv.org/abs/2204.06508 | https://github.com/amazon-science/fact-graph |
+| 2022 | PrOntoQa |  A Systematic Formal Analysis of Chain-of-Thought | https://arxiv.org/abs/2210.01240 | https://github.com/asaparov/prontoqa |
 | 2021 | SOFAI | Thinking Fast and Slow in AI:the Role of Metacognition | https://arxiv.org/abs/2110.01834 | https://sites.google.com/view/sofai/home |
 | 2021 | SKATE | A Natural Language Interface for Encoding Structured Knowledge | https://arxiv.org/abs/2010.10597 | https://ec.ai/ |
 | 2020 | GLUCOSE | GeneraLized and COntextualized Story Explanations | https://arxiv.org/abs/2009.07758 | https://ec.ai/ |
-| | | | | |
 
 
 ## Generative AI - Impactful projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023 | CodeLLama | | | |
-| 2021 | ChatGPT | | | |
+| 2023 | Fairseq (Meta) | Toolkit for LLM's | various (see GitHub page) | https://github.com/facebookresearch/fairseq/ |
 | 2020 | Octopus Paper | Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data | https://aclanthology.org/2020.acl-main.463/ | N/A |
-| | | | | |
-| | | | | |
-| | | | | |
+| 2019 | T5 (Meta) | text to text transfer transformer | various - see https://arxiv.org/abs/1910.10683 | https://github.com/google-research/text-to-text-transfer-transformer |
+| 2023 | T5X | Toolkit for LLM's | various - see https://arxiv.org/abs/2203.17189 | https://github.com/google-research/t5x |
 
 ## Benchmarks 
 
@@ -128,11 +143,11 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2022 | Switchboard | Collection of Recognition of conversational speech over telephone | https://arxiv.org/abs/2206.06192 | https://benchmarks.ai/switchboard |
 | 2019 | LitePyramid | Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation | https://aclanthology.org/N19-1072/ | https://github.com/OriShapira/LitePyramids |
 | 2019 | GLUE | https://gluebenchmark.com/ | https://arxiv.org/abs/1804.07461 | https://gluebenchmark.com/ |
+| 2019 | CLUTRR (Meta) | A Diagnostic Benchmark for Inductive Reasoning from Text | https://arxiv.org/abs/1908.06177 | https://github.com/facebookresearch/clutrr |
 | 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
 | 2012 | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | https://arxiv.org/abs/1207.4708 | https://github.com/Farama-Foundation/Arcade-Learning-Environment |
 | 2012 | MNIST | Database of Handwritten Digit Images for Machine Learning Research | https://ieeexplore.ieee.org/document/6296535 | http://yann.lecun.com/exdb/mnist/ |
 | 2009 | ImageNet |Image database organized according to the WordNet hierarchy (currently only the nouns)| https://ieeexplore.ieee.org/document/5206848 | https://www.image-net.org/ |
-
 
 ## Template
 
