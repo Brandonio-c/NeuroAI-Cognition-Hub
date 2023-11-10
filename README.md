@@ -142,12 +142,10 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2019 | T5 (Meta) | text to text transfer transformer | various - see https://arxiv.org/abs/1910.10683 | https://github.com/google-research/text-to-text-transfer-transformer |
 | 2023 | T5X | Toolkit for LLM's | various - see https://arxiv.org/abs/2203.17189 | https://github.com/google-research/t5x |
 
-## Useful AI tools 
+## Generative AI landscape (2023) - There is an AI for literally everything 
 
 ### Code llama
   > https://codellama.dev/about
-
-## Generative AI landscape (2023) - There is an AI for literally everything 
 
 https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/
 
