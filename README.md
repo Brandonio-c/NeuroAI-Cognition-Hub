@@ -43,15 +43,78 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Useful AI tools 
 
-### DALLE-2
-  > https://openai.com/dall-e-2
-
-### ChatGPT 
-  > https://chat.openai.com/
-
 ### Code llama
   > https://codellama.dev/about
 
+## Generative AI landscape (2023) - There is an AI for literally everything 
+
+https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/
+
+https://www.datacamp.com/cheat-sheet/the-generative-ai-tools-landscape
+
+![generative AI landscape](https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/8c5de914-1b44-4c79-a416-d9b5de249acf)
+
+(follow the link above to find a generative model listed under the subheading below) 
+
+| Application space                                | Number of apps   |
+| ------------------------------------------------ | -----------------|
+| Text Applications                                |                  |
+| Search                                           |                  |
+| Search: Internet                                 | 8                |
+| Search: Enterprise, Sales, Marketing & Accounting | 7                |
+| Search: Jobs                                     | 5                |
+| Search: Books, Images, Podcasts, Videos, & TV     | 9                |
+| Search: Research                                  | 7                |
+| Search: Programming/Software Development         | 5               |
+| Chat                                              | 3              |
+| Sales & Marketing Copy Generation                | 17               |
+| Email Generation                                  | 8                |
+| Other Copy Generation                             | 9               |
+| Note-Taking & Document Summarization              | 6                |
+| Writing Assistance & Translation                 | 3                |
+| Image Applications                                |                |
+| 2D Image Generation                                | 16              |
+| Web Design, Color Palette Generation              | 6                |
+| Image Editing, Enhancement & Style Transfer       | 7               |
+| Ad Generation                                     | 5                |
+| Presentations/Slide Generation                    | 10               |
+| 3D Image Generation                               | 6                |
+| Digital People Generation                         | 6                |
+| Video Applications                                |                |
+| Video Generation From Text                        | 6                |
+| Video Editing                                      | 6               |
+| Video Personalization & Derivative Content Generation | 7             |    
+| Audio Applications                                |                |
+| Music Generation                                  | 12               |
+| Text to Speech                                    | 12               |
+| Speech to Text (Transcription)                    |                |
+| Transcription: General                            | 10               |
+| Transcription: Note Taking                        | 7                |
+| Transcription: Subtitle Generation                 | 6                |
+| Transcription: Podcasts                            | 3               |
+| Transcription: APIs                                | 2                 |
+| Transcription: Other                               | 5                | 
+| Dubbing                                           | 6               |
+| Music Editing & Processing                        | 6                |
+| Speech Editing & Processing                       | 5                |
+| Coding Applications                               |                |
+| Website Generation from Text                      | 7                 | 
+| Website Generation from Figma Designs              | 3                |
+| Website Personalization & Optimization             | 4                 |
+| Code Generation/Completion                        | 12                |
+| Code Analysis & DevOps Intelligence               | 9                |
+| Documentation Generation                          | 5                |
+| Data Applications                                 |                |
+| Automated Analysis & Insights                      | 18              |
+| Machine Learning & DataOps                        | 8                |
+| Synthetic Training Data Generation                | 6                |
+| Bots                                              |                |
+| Chatbots                                          | 18               |
+| Personal Assistants & AI Agents                   | 13               |
+| Gaming                                            | 5                |
+| Drug Development                                  | 4              |
+| Language Learning                                |  11               |
+| Miscellaneous                                     | 6                |
 
 ## Symbolic Reasoning AI major projects
 
