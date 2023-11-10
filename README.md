@@ -36,7 +36,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 ## Featured 
 
 ### Deep Learning Is Hitting a Wall - Gary Marcus 
-    > [https://nautil.us/deep-learning-is-hitting-a-wall-238440/](https://nautil.us/deep-learning-is-hitting-a-wall-238440/)
+> https://nautil.us/deep-learning-is-hitting-a-wall-238440/ 
 
 ### OpenCog
   > https://github.com/opencog
