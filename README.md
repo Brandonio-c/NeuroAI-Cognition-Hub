@@ -58,12 +58,15 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023 | Cyc by Cycorp |Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | https://arxiv.org/abs/2308.04445 | https://github.com/cycorp |
+| 2023 | AMR (3.0) | Abstract Meaning Representation (Bank)  | https://aclanthology.org/W13-2322.pdf | https://amr.isi.edu/ |
+| 2023 | AMR Parsing | Transition-based Neural Parser | Various - see  https://paperswithcode.com/task/amr-parsing | https://github.com/IBM/transition-amr-parser |
 | 2022 | N/A | A Semantic Framework for Neural-Symbolic Computing | https://arxiv.org/abs/2212.12050 | N/A 
 | 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |https://ieeexplore.ieee.org/document/9488275 | N/A |
 | 2022 | LinkBERT | Pretraining Language Models with Document Links | https://arxiv.org/abs/2203.15827 | https://github.com/michiyasunaga/LinkBERT |
 | 2021 | Crema | Logical Credal Networks | https://arxiv.org/abs/2109.12240 | https://github.com/radum2275/crema |
 | 2021 | DeepStochLog | Neural Stochastic Logic Programming | https://arxiv.org/abs/2106.12574 | https://github.com/ML-KULeuven/deepstochlog |
 | 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore.ieee.org/document/9415044 | https://github.com/songtaogithub/LNN |
+| 2021 | Structured-BART | Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs | https://arxiv.org/abs/2104.08400 | https://github.com/SALT-NLP/Structure-Aware-BART |
 | 2020 | LTN | Logic Tensor Networks | https://arxiv.org/abs/2012.13635 | https://github.com/logictensornetworks/logictensornetworks |
 | 2020 | SenseBERT | Driving Some Sense into BERT | https://arxiv.org/abs/1908.05646 | https://github.com/AI21Labs/sense-bert |
 | 2019 | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | https://arxiv.org/abs/1905.06088 | N/A |
@@ -73,7 +76,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2018 | BERT (Google) |  Pre-training of Deep Bidirectional Transformers for Language Understanding | https://arxiv.org/abs/1810.04805 | https://github.com/google-research/bert |
 | 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science /article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
 | 2003 | DAMLJessKB |A Tool for Reasoning with the Semantic Web |https://ieeexplore.ieee.org/document/1200733 | N/A |
-
+| 2021 | Structured-BART | Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs | https://arxiv.org/abs/2104.08400 | https://github.com/SALT-NLP/Structure-Aware-BART |
+| | | | | |
 
 
 ## Knowledge representation major projects
@@ -92,12 +96,14 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2021 | N/A | Human Schema Curation via Causal Association Rule Mining | https://arxiv.org/abs/2104.08811 | links (including KAIROS links) inside of paper |
 | 2020 | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | https://arxiv.org/abs/2010.03790 | https://github.com/IBM/commonsense-rl |
 | 2020 | KBQA (IBM) | Leveraging Abstract Meaning Representation for Knowledge Base Question Answering | https://arxiv.org/abs/2012.01707 | https://github.com/IBM/kbqa-relation-linking |
+| 2020 | WCEP | A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal | https://aclanthology.org/2020.acl-main.120/ | https://github.com/complementizer/wcep-mds-dataset |
 | 2019 | KAIROS | Knowledge-directed Artificial Intelligence Reasoning Over Schemas | N/A (not available yet) | https://www.darpa.mil/program/knowledge-directed -artificial-intelligence-reasoning-over-schemas |
 | 2019 | KBTE | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks| https://arxiv.org/abs/1911.02060 | https://github.com/IBM/knowledge-enabled-textual-entailment|
 | 2018 | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft)| https://github.com/microsoft/jericho |
 | 2014 | WikiData | a free collaborative knowledgebase | https://dl.acm.org/doi/10.1145/2629489 | https://github.com/Wikidata |
 | 2007 | GeoQuery| a bridge between the Gene Expression Omnibus (GEO) and BioConductor | https://academic.oup.com/bioinformatics /article/23/14/1846/190290 | https://github.com/seandavi/GEOquery |
-
+| | | | | |
+| | | | | |
 
 <img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4">
 
