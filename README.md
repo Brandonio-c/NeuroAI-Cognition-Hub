@@ -19,7 +19,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 12. [Contributing](#contributing)
 13. [License](#license)
 
-Up to day 3 part 1 of week 8
+Up to 
 
 ## About Neuro-Symbolic AI
 
