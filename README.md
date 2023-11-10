@@ -7,7 +7,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 
 1.  [About Neuro-Symbolic AI and the Common Model of Cognition](#about-neuro-symbolic-ai)
 2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
-3.  [Featured](#featured)\
+3.  [Featured](#featured)
 4.  [Useful AI tools](#useful-tools)
 5.  [Symbolic Reasoning AI major projects](#reasoning-ai)
 6.  [Knowledge representation major projects](#knowledge-ai)
@@ -19,7 +19,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 12. [Contributing](#contributing)
 13. [License](#license)
 
-Up to 
+Up to week 08 day 3 part 1 (2 papers away from day 4) 
 
 ## About Neuro-Symbolic AI
 
