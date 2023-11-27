@@ -19,7 +19,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 12. [Contributing](#contributing)
 13. [License](#license)
 
-Up to week 08 day 3 part 1 (2 papers away from day 4) 
+Up to week 09 day 04 (just started this week)
 
 ## About Neuro-Symbolic AI
 
@@ -75,28 +75,34 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Knowledge representation major projects
 
-
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [2023](https://bair.berkeley.edu/blog/2023/04/03/koala/) | KOALA | A Dialogue Model for Academic Research | N/A Yet (blog post only) | [GitHub](https://bair.berkeley.edu/blog/2023/04/03/koala/) |
+| [2023](https://www.wolfram.com/data-framework/) | Wolfram Alpha  | Wolfram Data Framework (WDF) Take data and make it meaningful | [Documentation](https://reference.wolfram.com/language/guide/WDFWolframDataFramework.html) | [GitHub](https://github.com/WolframResearch) |
+| [2023](https://www.newyorker.com/culture/infinite-scroll/your-ai-companion-will-support-you-no-matter-what#:~:text=Now%2C%20with%20A.I.,personalities%20according%20to%20users'%20desires.) | AI companions | Various approaches from various companies | N/A | [Kindroid](https://kindroid.ai/), [Nomi](https://nomi.ai/), [Character](https://beta.character.ai/) |
 | [2023](https://arxiv.org/abs/2307.02628) | SKIP | Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference | [Paper](https://arxiv.org/abs/2307.02628) | [GitHub](https://github.com/tuetschek/e2e-dataset) (dataset only) |
 | [2023](https://arxiv.org/abs/2208.01174) | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | [Paper](https://arxiv.org/abs/2208.01174) | [CognitiveAI Lab](https://github.com/cognitiveailab/TextWorldExpress), [Microsoft](https://github.com/microsoft/TextWorld) |
 | [2023](https://github.com/facebookresearch/ParlAI) | ParlAI | Python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | [GitHub](https://github.com/facebookresearch/ParlAI), [ParlAI](https://parl.ai/) |
 | [2023](https://arxiv.org/abs/2305.19374) | NeuroConcept | Compositional diversity in visual concept learning | [Paper](https://arxiv.org/abs/2305.19374) | N/A yet |
 | [2023](https://github.com/e-spaulding/xpo) | DWD overlay | The DARPA Wikidata Overlay | [Paper](https://aclanthology.org/2023.isa-1.1.pdf) | [GitHub](https://github.com/e-spaulding/xpo) |
 | [2023](https://aclanthology.org/2023.acl-demo.1/) | HITL-Schema | Human-in-the-Loop Schema Induction | [Paper](https://arxiv.org/abs/2302.13048) | [GitHub](https://aclanthology.org/2023.acl-demo.1/) |
+| [2023](https://ibm.github.io/neuro-symbolic-ai/toolkit/ulkb/) | ULKB  | Universal Logic Knowledge Base | N/A | [GitHub](https://github.com/ibm/ulkb) |
 | [2023](https://apps.dtic.mil/sti/trecms/pdf/AD1202435.pdf) | RAMFIS | REPRESENTATION OF VECTORS AND ABSTRACT MEANINGS FOR INFORMATION SYNTHESIS | [Paper](https://apps.dtic.mil/sti/trecms/pdf/AD1202435.pdf) | N/A (U.S. Air Force) |
 | [2022](https://arxiv.org/abs/2203.07540) | ScienceWorld | ScienceWorld: Is your Agent Smarter than a 5th Grader? | [Paper](https://arxiv.org/abs/2203.07540) | [GitHub](https://github.com/allenai/ScienceWorld) |
 | [2022](https://arxiv.org/abs/2210.07109) | D&D as a Dialogue | Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence | [Paper](https://arxiv.org/abs/2210.07109) | N/A |
 | [2022](https://arxiv.org/abs/2202.00120) | QALD | QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers | [Paper](https://arxiv.org/abs/2202.00120) | [GitHub](https://github.com/ag-sc/QALD/tree/master) |
 | [2022](https://machinelearning.apple.com/research/continuous-construction) | SAGA | A Platform for Continuous Construction and Serving of Knowledge At Scale | [Paper](https://arxiv.org/abs/2204.07309) | [Apple](https://machinelearning.apple.com/research/continuous-construction) |
 | [2022](https://www.ijcai.org/proceedings/2022/850) | Foresee | Knowledge-Based News Event Analysis and Forecasting Toolkit | [Paper](https://www.ijcai.org/proceedings/2022/850) | N/A |
+| [2022](https://soargroup.github.io/rosie/) | ROSIE (from SOAR) |  Rosie (RObotic Soar Instructable Entity) is an agent written in the Soar Cognitive Architecture | [various - see ](https://soar.eecs.umich.edu/) | [GitHub](https://github.com/SoarGroup/rosie) |
+| [2018-22](https://soar.eecs.umich.edu/) | SOAR | Soar Cognitive Architectur  | [Various - see ](https://soar.eecs.umich.edu/) | [GitHub](https://github.com/SoarGroup/Soar) |
 | [2002-22]([Prop](https://propbank.github.io/)) | PropBank  |  PropBank (proposition bank) approach to semantic role labeling over the last two decades | [Paper](https://aclanthology.org/2022.starsem-1.24/) | [GitHub](https://github.com/propbank/) |
 | [2017-22](https://universalpropositions.github.io/) | Universal PropBank  |  annotate text in different languages with a layer of "universal" semantic role labeling annotation | [Paper - see publications](https://universalpropositions.github.io/) | [GitHub](https://github.com/UniversalPropositions) |
 | [2021](https://arxiv.org/abs/2110.10963) | Neuro-Symbolic RL | Neuro-Symbolic Reinforcement Learning with First-Order Logic | [Paper](https://arxiv.org/abs/2110.10963) | [Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/) |
 | [2021](https://aclanthology.org/2021.emnlp-main.245/) | Neuro-Symbolic learning | Neuro-Symbolic Approaches for Text-Based Policy Learning | [Paper](https://aclanthology.org/2021.emnlp-main.245/) | N/A |
 | [2021](https://arxiv.org/abs/2104.08811) | Human Schema | Human Schema Curation via Causal Association Rule Mining | [Paper](https://arxiv.org/abs/2104.08811) | links (including KAIROS links) inside of paper |
 | [2021](https://par.nsf.gov/servlets/purl/10288899) | UMR | Uniform Meaning Representation | [Paper](https://par.nsf.gov/servlets/purl/10288899) | [Web](https://umr4nlp.github.io/web/index.html), [Tutorials (LREC)](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/tutorials-details/), [Tutorials (EMNLP)](https://2022.emnlp.org/program/tutorials/) |
+| [2021](https://www.akbc.ws/2021/papers/4TpJpZ-_gyl) | LLM Knowledge from Analogy  | Combining Analogy with Language Models for Knowledge Extraction | [Paper](https://openreview.net/forum?id=4TpJpZ-_gyl) | [GitHub](https://github.com/dnr2/analogical-ke) |
+| [2021](https://makg.org/) | MAKG/MS Satori |  Microsoft Academic Knowledge Graph / Satori project  | [webpage](https://makg.org/) [Academic Webpage ](https://www.microsoft.com/en-us/research/project/academic/) | [GitHub](https://github.com/michaelfaerber/MAG2RDF) |
 | [2020](https://mosaickg.apps.allenai.org/kg_atomic2020) | Atomic  | a commonsense knowledge graph with 1.33M everyday inferential knowledge tuples about entities and events | [Paper](https://www.semanticscholar.org/paper/COMET-ATOMIC-2020%3A-On-Symbolic-and-Neural-Knowledge-Hwang-Bhagavatula/f8a22859230e0ccafefc020dccc66b5a646fe0ac) | [GitHub](https://github.com/allenai/comet-atomic-2020/) |
 | [2020](https://arxiv.org/abs/2010.03790) | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | [Paper](https://arxiv.org/abs/2010.03790) | [GitHub](https://github.com/IBM/commonsense-rl) |
 | [2020](https://arxiv.org/abs/2012.01707) | KBQA (IBM) | Leveraging Abstract Meaning Representation for Knowledge Base Question Answering | [Paper](https://arxiv.org/abs/2012.01707) | [GitHub](https://github.com/IBM/kbqa-relation-linking) |
@@ -110,7 +116,12 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2017](https://www.nas.gov.ua/text/EuropeanIntegration/HR001117S0026%20(AIDA).pdf) | DARPA AIDA | Active Interpretation of Disparate Alternatives | [Paper](https://www.nas.gov.ua/text/EuropeanIntegration/HR001117S0026%20(AIDA).pdf) | N/A (DARPA) [DARPA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) |
 | [2016](https://arxiv.org/abs/1612.03975) | ConceptNet (5.5) | An Open Multilingual Graph of General Knowledge | [Paper](https://arxiv.org/abs/1612.03975) | [GitHub](https://github.com/commonsense/conceptnet5/), [ConceptNet](https://conceptnet.io/) |
 | [2014](https://dl.acm.org/doi/10.1145/2629489) | WikiData | a free collaborative knowledgebase | [Paper](https://dl.acm.org/doi/10.1145/2629489) | [GitHub](https://github.com/Wikidata) |
+| [2012](https://en.wikipedia.org/wiki/Google_Knowledge_Graph) | Google KG |  The Google Knowledge Graph| [website](https://en.wikipedia.org/wiki/Google_Knowledge_Graph) | N/A |
+| [2010](https://coggle.it/diagram/Wlcm4xImdAABI9yH/t/watson-ibm-knowledge-base-prismatic) | PRISMATIC | inducing knowledge from a large scale lexicalized relation resource | [Paper](https://dl.acm.org/doi/10.5555/1866775.1866790) | N/A |
 | [2007](https://academic.oup.com/bioinformatics/article/23/14/1846/190290) | GeoQuery | a bridge between the Gene Expression Omnibus (GEO) and BioConductor | [Paper](https://academic.oup.com/bioinformatics/article/23/14/1846/190290) | [GitHub](https://github.com/seandavi/GEOquery) |
+| [2020](https://arxiv.org/abs/2010.05953) | COMET-ATOMIC 2020 | On Symbolic and Neural Commonsense Knowledge Graphs | [Paper](https://arxiv.org/abs/2010.05953) | [GitHub](https://github.com/allenai/comet-atomic-2020) |
+| []() |  |  | [Paper]() | [GitHub]() |
+| []() |  |  | [Paper]() | [GitHub]() |
 | []() |  |  | [Paper]() | [GitHub]() |
 
 
