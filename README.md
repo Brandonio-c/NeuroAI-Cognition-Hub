@@ -70,11 +70,38 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2021 | 2P-Kt | A logic-based ecosystem for symbolic AI | https://www.sciencedirect.com/science/article/pii/S2352711021001126 | https://github.com/tuProlog/2p-kt, https://pika-lab.gitlab.io/tuprolog/2p-kt-web/|
 | | | | | |
 
+| Publication Year | Name | Description | Paper Link | GitHub Link |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [2023](https://arxiv.org/abs/2308.04445) | Cyc by Cycorp | Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | [Paper](https://arxiv.org/abs/2308.04445) | [GitHub](https://github.com/cycorp) |
+| [2023](https://aclanthology.org/W13-2322.pdf) | AMR (3.0) | Abstract Meaning Representation (Bank) | [Paper](https://aclanthology.org/W13-2322.pdf) | [Website](https://amr.isi.edu/) |
+| [2023](https://doi.org/10.35111/44cy-bp51) | AMR (3.0) | Abstract Meaning Representation (AMR) Annotation Release 3.0 | [Paper](https://doi.org/10.35111/44cy-bp51) | [LDC Catalog](https://catalog.ldc.upenn.edu/LDC2020T02) |
+| 2023 | AMR Parsing | Transition-based Neural Parser | [Papers with Code](https://paperswithcode.com/task/amr-parsing) | [GitHub](https://github.com/IBM/transition-amr-parser) |
+| [2023](https://arxiv.org/abs/2301.10414) | Logic & Info | Towards a Unification of Logic and Information Theory | [Paper](https://arxiv.org/abs/2301.10414) | N/A |
+| [2022](https://arxiv.org/abs/2212.12050) | N/A | A Semantic Framework for Neural-Symbolic Computing | [Paper](https://arxiv.org/abs/2212.12050) | N/A |
+| [2022](https://ieeexplore.ieee.org/document/9488275) | RoboCat | A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming | [Paper](https://ieeexplore.ieee.org/document/9488275) | N/A |
+| [2022](https://arxiv.org/abs/2203.15827) | LinkBERT | Pretraining Language Models with Document Links | [Paper](https://arxiv.org/abs/2203.15827) | [GitHub](https://github.com/michiyasunaga/LinkBERT) |
+| [2021](https://arxiv.org/abs/2109.12240) | Crema | Logical Credal Networks | [Paper](https://arxiv.org/abs/2109.12240) | [GitHub](https://github.com/radum2275/crema) |
+| [2021](https://arxiv.org/abs/2106.12574) | DeepStochLog | Neural Stochastic Logic Programming | [Paper](https://arxiv.org/abs/2106.12574) | [GitHub](https://github.com/ML-KULeuven/deepstochlog) |
+| [2021](https://ieeexplore.ieee.org/document/9415044) | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | [Paper](https://ieeexplore.ieee.org/document/9415044) | [GitHub](https://github.com/songtaogithub/LNN) |
+| [2021](https://arxiv.org/abs/2104.08400) | Structured-BART | Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs | [Paper](https://arxiv.org/abs/2104.08400) | [GitHub](https://github.com/SALT-NLP/Structure-Aware-BART) |
+| [2020](https://arxiv.org/abs/2012.13635) | LTN | Logic Tensor Networks | [Paper](https://arxiv.org/abs/2012.13635) | [GitHub](https://github.com/logictensornetworks/logictensornetworks) |
+| [2020](https://arxiv.org/abs/1908.05646) | SenseBERT | Driving Some Sense into BERT | [Paper](https://arxiv.org/abs/1908.05646) | [GitHub](https://github.com/AI21Labs/sense-bert) |
+| [2019](https://arxiv.org/abs/1905.06088) | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | [Paper](https://arxiv.org/abs/1905.06088) | N/A |
+| [2019](https://arxiv.org/abs/1910.13461) | BART (Meta) | Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | [Paper](https://arxiv.org/abs/1910.13461) | [GitHub](https://github.com/facebookresearch/bart_ls) |
+| [2018](https://arxiv.org/abs/1805.10872) | DeepProbLog | Neural Probabilistic Logic Programming | [Paper](https://arxiv.org/abs/1805.10872) | [GitHub](https://github.com/ML-KULeuven/deepproblog), [DTAI](https://dtai.cs.kuleuven.be/problog/) |
+| [2018](http://proceedings.mlr.press/v80/xu18h.html) | KBNN | A Semantic Loss Function for Deep Learning with Symbolic Knowledge | [Paper](http://proceedings.mlr.press/v80/xu18h.html) | [GitHub](https://github.com/npepperUQLab/Knowledge-Based-Neural-Network-) |
+| [2018](https://arxiv.org/abs/1810.04805) | BERT (Google) | Pre-training of Deep Bidirectional Transformers for Language Understanding | [Paper](https://arxiv.org/abs/1810.04805) | [GitHub](https://github.com/google-research/bert) |
+| [2007](https://www.sciencedirect.com/science/article/pii/S030439750600750X) | Modal | Connectionist modal logic: Representing modalities in neural networks | [Paper](https://www.sciencedirect.com/science/article/pii/S030439750600750X) | [GitHub](https://github.com/rkirsling/modallogic) |
+| [2003](https://ieeexplore.ieee.org/document/1200733) | DAMLJessKB | A Tool for Reasoning with the Semantic Web | [Paper](https://ieeexplore.ieee.org/document/1200733) | N/A |
+| [2021](https://www.sciencedirect.com/science/article/pii/S2352711021001126) | 2P-Kt | A logic-based ecosystem for symbolic AI | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021001126) | [GitHub (tuProlog)](https://github.com/tuProlog/2p-kt), [Pika-Lab](https://pika-lab.gitlab.io/tuprolog/2p-kt-web/) |
+
 
 ## Knowledge representation major projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023 | KOALA | A Dialogue Model for Academic Research | N/A Yet (blog post only) | https://bair.berkeley.edu/blog/2023/04/03/koala/ |
+| 2023 | SKIP | Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference | https://arxiv.org/abs/2307.02628 | https://github.com/tuetschek/e2e-dataset (dataset only) |
 | 2023 | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | https://arxiv.org/abs/2208.01174 | https://github.com/cognitiveailab/TextWorldExpress, https://github.com/microsoft/TextWorld |
 | 2023 | ParlAI |  Python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | https://github.com/facebookresearch/ParlAI, https://parl.ai/ |
 | 2023 | NeuroConcept | Compositional diversity in visual concept learning | https://arxiv.org/abs/2305.19374 | N/A yet  |
@@ -88,6 +115,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2021 | N/A | Neuro-Symbolic Reinforcement Learning with First-Order Logic| https://arxiv.org/abs/2110.10963 | https://ibm.github.io/neuro-symbolic-ai/toolkit/ |
 | 2021 | N/A | Neuro-Symbolic Approaches for Text-Based Policy Learning | https://aclanthology.org/2021.emnlp-main.245/ | N/A|
 | 2021 | N/A | Human Schema Curation via Causal Association Rule Mining | https://arxiv.org/abs/2104.08811 | links (including KAIROS links) inside of paper |
+| 2021 | UMR | Uniform Meaning Representation | https://par.nsf.gov/servlets/purl/10288899 | https://umr4nlp.github.io/web/index.html , https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/tutorials-details/ , https://2022.emnlp.org/program/tutorials/ |
 | 2020 | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | https://arxiv.org/abs/2010.03790 | https://github.com/IBM/commonsense-rl |
 | 2020 | KBQA (IBM) | Leveraging Abstract Meaning Representation for Knowledge Base Question Answering | https://arxiv.org/abs/2012.01707 | https://github.com/IBM/kbqa-relation-linking |
 | 2020 | WCEP | A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal | https://aclanthology.org/2020.acl-main.120/ | https://github.com/complementizer/wcep-mds-dataset |
@@ -95,10 +123,11 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2019 | KBTE | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks| https://arxiv.org/abs/1911.02060 | https://github.com/IBM/knowledge-enabled-textual-entailment|
 | 2018 | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft)| https://github.com/microsoft/jericho |
 | 2012-18  | VerbNet  | the largest on-line network of English verbs that links their syntactic and semantic patterns | https://verbs.colorado.edu/verbnet/ | https://github.com/cu-clear/verbnet |
+| 2018 | ProPara | comprehension of simple paragraphs describing processes | https://api.semanticscholar.org/CorpusID:202558974 | https://allenai.org/data/propara |
+| 2017 | DARPA AIDA | Active Interpretation of Disparate Alternatives | https://www.nas.gov.ua/text/ EuropeanIntegration/HR001117S0026%20(AIDA).pdf | N/A (DARPA) https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives |
 | 2016 | ConceptNet (5.5)  | An Open Multilingual Graph of General Knowledge | https://arxiv.org/abs/1612.03975 , https://conceptnet.io/ | https://github.com/commonsense/conceptnet5/ , https://github.com/commonsense/conceptnet |
 | 2014 | WikiData | a free collaborative knowledgebase | https://dl.acm.org/doi/10.1145/2629489 | https://github.com/Wikidata |
 | 2007 | GeoQuery| a bridge between the Gene Expression Omnibus (GEO) and BioConductor | https://academic.oup.com/bioinformatics /article/23/14/1846/190290 | https://github.com/seandavi/GEOquery |
-| | | | | |
 | | | | | |
 | | | | | |
 
@@ -135,7 +164,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2022 | Wikidata Causal Event Triple Data | Event Prediction using Case-Based Reasoning over Knowledge Graphs | https://arxiv.org/abs/2309.12423 | https://zenodo.org/records/7196049 |
 | 2022 | Switchboard | Collection of Recognition of conversational speech over telephone | https://arxiv.org/abs/2206.06192 | https://benchmarks.ai/switchboard |
 | 2019 | LitePyramid | Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation | https://aclanthology.org/N19-1072/ | https://github.com/OriShapira/LitePyramids |
-| 2019 | GLUE | https://gluebenchmark.com/ | https://arxiv.org/abs/1804.07461 | https://gluebenchmark.com/ |
+| 2019 | GLUE |  General Language Understanding Evaluation (GLUE) benchmark | https://arxiv.org/abs/1804.07461 | https://gluebenchmark.com/ |
 | 2019 | CLUTRR (Meta) | A Diagnostic Benchmark for Inductive Reasoning from Text | https://arxiv.org/abs/1908.06177 | https://github.com/facebookresearch/clutrr |
 | 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
 | 2012 | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | https://arxiv.org/abs/1207.4708 | https://github.com/Farama-Foundation/Arcade-Learning-Environment |
