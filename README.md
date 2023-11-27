@@ -68,7 +68,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2018](https://arxiv.org/abs/1810.04805) | BERT (Google) | Pre-training of Deep Bidirectional Transformers for Language Understanding | [Paper](https://arxiv.org/abs/1810.04805) | [GitHub](https://github.com/google-research/bert) |
 | [2007](https://www.sciencedirect.com/science/article/pii/S030439750600750X) | Modal | Connectionist modal logic: Representing modalities in neural networks | [Paper](https://www.sciencedirect.com/science/article/pii/S030439750600750X) | [GitHub](https://github.com/rkirsling/modallogic) |
 | [2003](https://ieeexplore.ieee.org/document/1200733) | DAMLJessKB | A Tool for Reasoning with the Semantic Web | [Paper](https://ieeexplore.ieee.org/document/1200733) | N/A |
-
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
 
 
 ## Knowledge representation major projects
@@ -103,8 +105,42 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2016 | ConceptNet (5.5)  | An Open Multilingual Graph of General Knowledge | https://arxiv.org/abs/1612.03975 , https://conceptnet.io/ | https://github.com/commonsense/conceptnet5/ , https://github.com/commonsense/conceptnet |
 | 2014 | WikiData | a free collaborative knowledgebase | https://dl.acm.org/doi/10.1145/2629489 | https://github.com/Wikidata |
 | 2007 | GeoQuery| a bridge between the Gene Expression Omnibus (GEO) and BioConductor | https://academic.oup.com/bioinformatics /article/23/14/1846/190290 | https://github.com/seandavi/GEOquery |
-| | | | | |
-| | | | | |
+
+
+| Publication Year | Name | Description | Paper Link | GitHub Link |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [2023](https://bair.berkeley.edu/blog/2023/04/03/koala/) | KOALA | A Dialogue Model for Academic Research | N/A Yet (blog post only) | [GitHub](https://bair.berkeley.edu/blog/2023/04/03/koala/) |
+| [2023](https://arxiv.org/abs/2307.02628) | SKIP | Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference | [Paper](https://arxiv.org/abs/2307.02628) | [GitHub](https://github.com/tuetschek/e2e-dataset) (dataset only) |
+| [2023](https://arxiv.org/abs/2208.01174) | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | [Paper](https://arxiv.org/abs/2208.01174) | [CognitiveAI Lab](https://github.com/cognitiveailab/TextWorldExpress), [Microsoft](https://github.com/microsoft/TextWorld) |
+| [2023](https://github.com/facebookresearch/ParlAI) | ParlAI | Python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | [GitHub](https://github.com/facebookresearch/ParlAI), [ParlAI](https://parl.ai/) |
+| [2023](https://arxiv.org/abs/2305.19374) | NeuroConcept | Compositional diversity in visual concept learning | [Paper](https://arxiv.org/abs/2305.19374) | N/A yet |
+| [2023](https://github.com/e-spaulding/xpo) | DWD overlay | The DARPA Wikidata Overlay | [Paper](https://aclanthology.org/2023.isa-1.1.pdf) | [GitHub](https://github.com/e-spaulding/xpo) |
+| [2023](https://aclanthology.org/2023.acl-demo.1/) | HITL-Schema | Human-in-the-Loop Schema Induction | [Paper](https://arxiv.org/abs/2302.13048) | [GitHub](https://aclanthology.org/2023.acl-demo.1/) |
+| [2023](https://apps.dtic.mil/sti/trecms/pdf/AD1202435.pdf) | RAMFIS | REPRESENTATION OF VECTORS AND ABSTRACT MEANINGS FOR INFORMATION SYNTHESIS | [Paper](https://apps.dtic.mil/sti/trecms/pdf/AD1202435.pdf) | N/A (U.S. Air Force) |
+| [2022](https://arxiv.org/abs/2203.07540) | ScienceWorld | ScienceWorld: Is your Agent Smarter than a 5th Grader? | [Paper](https://arxiv.org/abs/2203.07540) | [GitHub](https://github.com/allenai/ScienceWorld) |
+| [2022](https://arxiv.org/abs/2210.07109) | D&D as a Dialogue | Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence | [Paper](https://arxiv.org/abs/2210.07109) | N/A |
+| [2022](https://arxiv.org/abs/2202.00120) | QALD | QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers | [Paper](https://arxiv.org/abs/2202.00120) | [GitHub](https://github.com/ag-sc/QALD/tree/master) |
+| [2022](https://www.ijcai.org/proceedings/2022/850) | Foresee | Knowledge-Based News Event Analysis and Forecasting Toolkit | [Paper](https://www.ijcai.org/proceedings/2022/850) | N/A |
+| [2021](https://arxiv.org/abs/2110.10963) | N/A | Neuro-Symbolic Reinforcement Learning with First-Order Logic | [Paper](https://arxiv.org/abs/2110.10963) | [Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/) |
+| [2021](https://aclanthology.org/2021.emnlp-main.245/) | N/A | Neuro-Symbolic Approaches for Text-Based Policy Learning | [Paper](https://aclanthology.org/2021.emnlp-main.245/) | N/A |
+| [2021](https://arxiv.org/abs/2104.08811) | N/A | Human Schema Curation via Causal Association Rule Mining | [Paper](https://arxiv.org/abs/2104.08811) | links (including KAIROS links) inside of paper |
+| [2021](https://par.nsf.gov/servlets/purl/10288899) | UMR | Uniform Meaning Representation | [Paper](https://par.nsf.gov/servlets/purl/10288899) | [Web](https://umr4nlp.github.io/web/index.html), [Tutorials (LREC)](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/tutorials-details/), [Tutorials (EMNLP)](https://2022.emnlp.org/program/tutorials/) |
+| [2020](https://arxiv.org/abs/2010.03790) | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | [Paper](https://arxiv.org/abs/2010.03790) | [GitHub](https://github.com/IBM/commonsense-rl) |
+| [2020](https://arxiv.org/abs/2012.01707) | KBQA (IBM) | Leveraging Abstract Meaning Representation for Knowledge Base Question Answering | [Paper](https://arxiv.org/abs/2012.01707) | [GitHub](https://github.com/IBM/kbqa-relation-linking) |
+| [2020](https://aclanthology.org/2020.acl-main.120/) | WCEP | A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal | [Paper](https://aclanthology.org/2020.acl-main.120/) | [GitHub](https://github.com/complementizer/wcep-mds-dataset) |
+| [2019](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas) | KAIROS | Knowledge-directed Artificial Intelligence Reasoning Over Schemas | N/A (not available yet) | [DARPA](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas) |
+| [2019](https://arxiv.org/abs/1911.02060) | KBTE | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks | [Paper](https://arxiv.org/abs/1911.02060) | [GitHub](https://github.com/IBM/knowledge-enabled-textual-entailment) |
+| [2018](https://github.com/microsoft/jericho) | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft) | [GitHub](https://github.com/microsoft/jericho) |
+| [2012-18](https://verbs.colorado.edu/verbnet/) | VerbNet | the largest on-line network of English verbs that links their syntactic and semantic patterns | [Website](https://verbs.colorado.edu/verbnet/) | [GitHub](https://github.com/cu-clear/verbnet) |
+| [2018](https://api.semanticscholar.org/CorpusID:202558974) | ProPara | comprehension of simple paragraphs describing processes | [Paper](https://api.semanticscholar.org/CorpusID:202558974) | [AllenAI](https://allenai.org/data/propara) |
+| [2017](https://www.nas.gov.ua/text/EuropeanIntegration/HR001117S0026%20(AIDA).pdf) | DARPA AIDA | Active Interpretation of Disparate Alternatives | [Paper](https://www.nas.gov.ua/text/EuropeanIntegration/HR001117S0026%20(AIDA).pdf) | N/A (DARPA) [DARPA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) |
+| [2016](https://arxiv.org/abs/1612.03975) | ConceptNet (5.5) | An Open Multilingual Graph of General Knowledge | [Paper](https://arxiv.org/abs/1612.03975) | [GitHub](https://github.com/commonsense/conceptnet5/), [ConceptNet](https://conceptnet.io/) |
+| [2014](https://dl.acm.org/doi/10.1145/2629489) | WikiData | a free collaborative knowledgebase | [Paper](https://dl.acm.org/doi/10.1145/2629489) | [GitHub](https://github.com/Wikidata) |
+| [2007](https://academic.oup.com/bioinformatics/article/23/14/1846/190290) | GeoQuery | a bridge between the Gene Expression Omnibus (GEO) and BioConductor | [Paper](https://academic.oup.com/bioinformatics/article/23/14/1846/190290) | [GitHub](https://github.com/seandavi/GEOquery) |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
+
 
 <img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4">
 
@@ -113,9 +149,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| | | | | |
-| | | | | |
-| | | | | |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
 
 ## Meta-level control major projects
 
