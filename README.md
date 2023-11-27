@@ -127,7 +127,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [2023](https://groundhog-shallot-pen6.squarespace.com/explicable-insights) | CORA | Elemental AI Cognition product | N/A | [Website](https://groundhog-shallot-pen6.squarespace.com/explicable-insights) |
-| [2023](https://direct.mit.edu/pages/cognet) | MIT COGENT | Elemental AI Cognition product | [MITECS](https://direct.mit.edu/books/edited-volume/5452/The-MIT-Encyclopedia-of-the-Cognitive-Sciences) | [MTI CogNet ](https://direct.mit.edu/pages/cognet) |
+| [2023](https://direct.mit.edu/pages/cognet) | MIT COGENT | Elemental AI Cognition product | [MITECS](https://direct.mit.edu/books/edited-volume/5452/The-MIT-Encyclopedia-of-the-Cognitive-Sciences) | [MIT CogNet ](https://direct.mit.edu/pages/cognet) |
 | [2022](https://arxiv.org/abs/2011.13354) | BRAID | Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations | [Paper](https://arxiv.org/abs/2011.13354) | [ec.ai](https://ec.ai/) |
 | [2022](https://arxiv.org/abs/2205.07830) | FactPEGASUS | Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization | [Paper](https://arxiv.org/abs/2205.07830) | [GitHub](https://github.com/meetdavidwan/factpegasus) |
 | [2022](https://arxiv.org/abs/2204.06508) | FactGraph | FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations | [Paper](https://arxiv.org/abs/2204.06508) | [GitHub](https://github.com/amazon-science/fact-graph) |
