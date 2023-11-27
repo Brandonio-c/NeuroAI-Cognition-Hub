@@ -47,7 +47,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023 | Cyc by Cycorp |Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | https://arxiv.org/abs/2308.04445 | https://github.com/cycorp |
 | 2023 | AMR (3.0) | Abstract Meaning Representation (Bank)  | https://aclanthology.org/W13-2322.pdf | https://amr.isi.edu/ |
+| 2023 | AMR (3.0)  | Abstract Meaning Representation (AMR) Annotation Release 3.0 | https://doi.org/10.35111/44cy-bp51 | https://catalog.ldc.upenn.edu/LDC2020T02 |
 | 2023 | AMR Parsing | Transition-based Neural Parser | Various - see  https://paperswithcode.com/task/amr-parsing | https://github.com/IBM/transition-amr-parser |
+| 2023 | Logic & Info | Towards a Unification of Logic and Information Theory | https://arxiv.org/abs/2301.10414 | N/A |
 | 2022 | N/A | A Semantic Framework for Neural-Symbolic Computing | https://arxiv.org/abs/2212.12050 | N/A 
 | 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |https://ieeexplore.ieee.org/document/9488275 | N/A |
 | 2022 | LinkBERT | Pretraining Language Models with Document Links | https://arxiv.org/abs/2203.15827 | https://github.com/michiyasunaga/LinkBERT |
@@ -65,6 +67,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science /article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
 | 2003 | DAMLJessKB |A Tool for Reasoning with the Semantic Web |https://ieeexplore.ieee.org/document/1200733 | N/A |
 | 2021 | Structured-BART | Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs | https://arxiv.org/abs/2104.08400 | https://github.com/SALT-NLP/Structure-Aware-BART |
+| 2021 | 2P-Kt | A logic-based ecosystem for symbolic AI | https://www.sciencedirect.com/science/article/pii/S2352711021001126 | https://github.com/tuProlog/2p-kt, https://pika-lab.gitlab.io/tuprolog/2p-kt-web/|
 | | | | | |
 
 
