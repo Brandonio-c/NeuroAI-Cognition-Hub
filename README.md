@@ -75,37 +75,6 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Knowledge representation major projects
 
-| Publication Year | Name | Description | Paper Link | GitHub Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023 | KOALA | A Dialogue Model for Academic Research | N/A Yet (blog post only) | https://bair.berkeley.edu/blog/2023/04/03/koala/ |
-| 2023 | SKIP | Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference | https://arxiv.org/abs/2307.02628 | https://github.com/tuetschek/e2e-dataset (dataset only) |
-| 2023 | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | https://arxiv.org/abs/2208.01174 | https://github.com/cognitiveailab/TextWorldExpress, https://github.com/microsoft/TextWorld |
-| 2023 | ParlAI |  Python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | https://github.com/facebookresearch/ParlAI, https://parl.ai/ |
-| 2023 | NeuroConcept | Compositional diversity in visual concept learning | https://arxiv.org/abs/2305.19374 | N/A yet  |
-| 2023 | DWD overlay | The DARPA Wikidata Overlay | https://aclanthology.org/2023.isa-1.1.pdf | https://github.com/e-spaulding/xpo |
-| 2023 | HITL-Schema | Human-in-the-Loop Schema Induction | https://arxiv.org/abs/2302.13048 | https://aclanthology.org/2023.acl-demo.1/ |
-| 2023 | RAMFIS | REPRESENTATION OF VECTORS AND ABSTRACT MEANINGS FOR INFORMATION SYNTHESIS | https://apps.dtic.mil/sti/trecms/pdf/AD1202435.pdf | N/A (U.S. Air Force) |
-| 2022 | ScienceWorld | ScienceWorld: Is your Agent Smarter than a 5th Grader? | https://arxiv.org/abs/2203.07540 | https://github.com/allenai/ScienceWorld |
-| 2022 | D&D as a Dialogue | Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence | https://arxiv.org/abs/2210.07109 | N/A |
-| 2022 | QALD | QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers | https://arxiv.org/abs/2202.00120 | https://github.com/ag-sc/QALD/tree/master |
-| 2022 | Foresee | Knowledge-Based News Event Analysis and Forecasting Toolkit | https://www.ijcai.org/proceedings/2022/850 | N/A |
-| 2021 | N/A | Neuro-Symbolic Reinforcement Learning with First-Order Logic| https://arxiv.org/abs/2110.10963 | https://ibm.github.io/neuro-symbolic-ai/toolkit/ |
-| 2021 | N/A | Neuro-Symbolic Approaches for Text-Based Policy Learning | https://aclanthology.org/2021.emnlp-main.245/ | N/A|
-| 2021 | N/A | Human Schema Curation via Causal Association Rule Mining | https://arxiv.org/abs/2104.08811 | links (including KAIROS links) inside of paper |
-| 2021 | UMR | Uniform Meaning Representation | https://par.nsf.gov/servlets/purl/10288899 | https://umr4nlp.github.io/web/index.html , https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/tutorials-details/ , https://2022.emnlp.org/program/tutorials/ |
-| 2020 | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | https://arxiv.org/abs/2010.03790 | https://github.com/IBM/commonsense-rl |
-| 2020 | KBQA (IBM) | Leveraging Abstract Meaning Representation for Knowledge Base Question Answering | https://arxiv.org/abs/2012.01707 | https://github.com/IBM/kbqa-relation-linking |
-| 2020 | WCEP | A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal | https://aclanthology.org/2020.acl-main.120/ | https://github.com/complementizer/wcep-mds-dataset |
-| 2019 | KAIROS | Knowledge-directed Artificial Intelligence Reasoning Over Schemas | N/A (not available yet) | https://www.darpa.mil/program/knowledge-directed -artificial-intelligence-reasoning-over-schemas |
-| 2019 | KBTE | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks| https://arxiv.org/abs/1911.02060 | https://github.com/IBM/knowledge-enabled-textual-entailment|
-| 2018 | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft)| https://github.com/microsoft/jericho |
-| 2012-18  | VerbNet  | the largest on-line network of English verbs that links their syntactic and semantic patterns | https://verbs.colorado.edu/verbnet/ | https://github.com/cu-clear/verbnet |
-| 2018 | ProPara | comprehension of simple paragraphs describing processes | https://api.semanticscholar.org/CorpusID:202558974 | https://allenai.org/data/propara |
-| 2017 | DARPA AIDA | Active Interpretation of Disparate Alternatives | https://www.nas.gov.ua/text/ EuropeanIntegration/HR001117S0026%20(AIDA).pdf | N/A (DARPA) https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives |
-| 2016 | ConceptNet (5.5)  | An Open Multilingual Graph of General Knowledge | https://arxiv.org/abs/1612.03975 , https://conceptnet.io/ | https://github.com/commonsense/conceptnet5/ , https://github.com/commonsense/conceptnet |
-| 2014 | WikiData | a free collaborative knowledgebase | https://dl.acm.org/doi/10.1145/2629489 | https://github.com/Wikidata |
-| 2007 | GeoQuery| a bridge between the Gene Expression Omnibus (GEO) and BioConductor | https://academic.oup.com/bioinformatics /article/23/14/1846/190290 | https://github.com/seandavi/GEOquery |
-
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -121,9 +90,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2022](https://arxiv.org/abs/2210.07109) | D&D as a Dialogue | Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence | [Paper](https://arxiv.org/abs/2210.07109) | N/A |
 | [2022](https://arxiv.org/abs/2202.00120) | QALD | QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers | [Paper](https://arxiv.org/abs/2202.00120) | [GitHub](https://github.com/ag-sc/QALD/tree/master) |
 | [2022](https://www.ijcai.org/proceedings/2022/850) | Foresee | Knowledge-Based News Event Analysis and Forecasting Toolkit | [Paper](https://www.ijcai.org/proceedings/2022/850) | N/A |
-| [2021](https://arxiv.org/abs/2110.10963) | N/A | Neuro-Symbolic Reinforcement Learning with First-Order Logic | [Paper](https://arxiv.org/abs/2110.10963) | [Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/) |
-| [2021](https://aclanthology.org/2021.emnlp-main.245/) | N/A | Neuro-Symbolic Approaches for Text-Based Policy Learning | [Paper](https://aclanthology.org/2021.emnlp-main.245/) | N/A |
-| [2021](https://arxiv.org/abs/2104.08811) | N/A | Human Schema Curation via Causal Association Rule Mining | [Paper](https://arxiv.org/abs/2104.08811) | links (including KAIROS links) inside of paper |
+| [2021](https://arxiv.org/abs/2110.10963) | Neuro-Symbolic RL | Neuro-Symbolic Reinforcement Learning with First-Order Logic | [Paper](https://arxiv.org/abs/2110.10963) | [Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/) |
+| [2021](https://aclanthology.org/2021.emnlp-main.245/) | Neuro-Symbolic learning | Neuro-Symbolic Approaches for Text-Based Policy Learning | [Paper](https://aclanthology.org/2021.emnlp-main.245/) | N/A |
+| [2021](https://arxiv.org/abs/2104.08811) | Human Schema | Human Schema Curation via Causal Association Rule Mining | [Paper](https://arxiv.org/abs/2104.08811) | links (including KAIROS links) inside of paper |
 | [2021](https://par.nsf.gov/servlets/purl/10288899) | UMR | Uniform Meaning Representation | [Paper](https://par.nsf.gov/servlets/purl/10288899) | [Web](https://umr4nlp.github.io/web/index.html), [Tutorials (LREC)](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/tutorials-details/), [Tutorials (EMNLP)](https://2022.emnlp.org/program/tutorials/) |
 | [2020](https://arxiv.org/abs/2010.03790) | TWC | Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines | [Paper](https://arxiv.org/abs/2010.03790) | [GitHub](https://github.com/IBM/commonsense-rl) |
 | [2020](https://arxiv.org/abs/2012.01707) | KBQA (IBM) | Leveraging Abstract Meaning Representation for Knowledge Base Question Answering | [Paper](https://arxiv.org/abs/2012.01707) | [GitHub](https://github.com/IBM/kbqa-relation-linking) |
@@ -142,7 +111,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | []() |   |   | [Paper]() | [GitHub]() |
 
 
-<img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4">
+<!-- <img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4"> -->
 
 
 ## Memory AI major projects
@@ -157,48 +126,54 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023 | CORA | Elemental AI Cognition product | N/A | https://groundhog-shallot-pen6. squarespace.com/explicable-insights|
-| 2023 | COGENT | Elemental AI Cognition product | N/A | N/A |
-| 2022 | BRAID | Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations | https://arxiv.org/abs/2011.13354 | https://ec.ai/ |
-| 2022 | FactPEGASUS | Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization | https://arxiv.org/abs/2205.07830 | https://github.com/meetdavidwan/factpegasus |
-| 2022 | FactGraph | FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations | https://arxiv.org/abs/2204.06508 | https://github.com/amazon-science/fact-graph |
-| 2022 | PrOntoQa |  A Systematic Formal Analysis of Chain-of-Thought | https://arxiv.org/abs/2210.01240 | https://github.com/asaparov/prontoqa |
-| 2021 | SOFAI | Thinking Fast and Slow in AI:the Role of Metacognition | https://arxiv.org/abs/2110.01834 | https://sites.google.com/view/sofai/home |
-| 2021 | SKATE | A Natural Language Interface for Encoding Structured Knowledge | https://arxiv.org/abs/2010.10597 | https://ec.ai/ |
-| 2020 | GLUCOSE | GeneraLized and COntextualized Story Explanations | https://arxiv.org/abs/2009.07758 | https://ec.ai/ |
+| [2023](https://groundhog-shallot-pen6.squarespace.com/explicable-insights) | CORA | Elemental AI Cognition product | N/A | [Website](https://groundhog-shallot-pen6.squarespace.com/explicable-insights) |
+| [2023](https://direct.mit.edu/pages/cognet) | MIT COGENT | Elemental AI Cognition product | [MITECS](https://direct.mit.edu/books/edited-volume/5452/The-MIT-Encyclopedia-of-the-Cognitive-Sciences) | [MTI CogNet ](https://direct.mit.edu/pages/cognet) |
+| [2022](https://arxiv.org/abs/2011.13354) | BRAID | Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations | [Paper](https://arxiv.org/abs/2011.13354) | [ec.ai](https://ec.ai/) |
+| [2022](https://arxiv.org/abs/2205.07830) | FactPEGASUS | Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization | [Paper](https://arxiv.org/abs/2205.07830) | [GitHub](https://github.com/meetdavidwan/factpegasus) |
+| [2022](https://arxiv.org/abs/2204.06508) | FactGraph | FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations | [Paper](https://arxiv.org/abs/2204.06508) | [GitHub](https://github.com/amazon-science/fact-graph) |
+| [2022](https://arxiv.org/abs/2210.01240) | PrOntoQa | A Systematic Formal Analysis of Chain-of-Thought | [Paper](https://arxiv.org/abs/2210.01240) | [GitHub](https://github.com/asaparov/prontoqa) |
+| [2021](https://arxiv.org/abs/2110.01834) | SOFAI | Thinking Fast and Slow in AI: the Role of Metacognition | [Paper](https://arxiv.org/abs/2110.01834) | [Website](https://sites.google.com/view/sofai/home) |
+| [2021](https://arxiv.org/abs/2010.10597) | SKATE | A Natural Language Interface for Encoding Structured Knowledge | [Paper](https://arxiv.org/abs/2010.10597) | [ec.ai](https://ec.ai/) |
+| [2020](https://arxiv.org/abs/2009.07758) | GLUCOSE | GeneraLized and COntextualized Story Explanations | [Paper](https://arxiv.org/abs/2009.07758) | [ec.ai](https://ec.ai/) |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
 
 ## Benchmarks 
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2022 | Causal Relation Benchmark | Knowledge Graph Embeddings for Causal Relation Prediction | https://ceur-ws.org/Vol-3342/paper-8.pdf | https://zenodo.org/records/7195904 |
-| 2022 | Wikidata Causal Event Triple Data | Event Prediction using Case-Based Reasoning over Knowledge Graphs | https://arxiv.org/abs/2309.12423 | https://zenodo.org/records/7196049 |
-| 2022 | Switchboard | Collection of Recognition of conversational speech over telephone | https://arxiv.org/abs/2206.06192 | https://benchmarks.ai/switchboard |
-| 2019 | LitePyramid | Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation | https://aclanthology.org/N19-1072/ | https://github.com/OriShapira/LitePyramids |
-| 2019 | GLUE |  General Language Understanding Evaluation (GLUE) benchmark | https://arxiv.org/abs/1804.07461 | https://gluebenchmark.com/ |
-| 2019 | CLUTRR (Meta) | A Diagnostic Benchmark for Inductive Reasoning from Text | https://arxiv.org/abs/1908.06177 | https://github.com/facebookresearch/clutrr |
-| 2016 | SQuAD | 100,000+ Questions for Machine Comprehension of Text | https://github.com/rajpurkar/SQuAD-explorer, https://rajpurkar.github.io/SQuAD-explorer/  | https://arxiv.org/abs/1606.05250|
-| 2012 | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | https://arxiv.org/abs/1207.4708 | https://github.com/Farama-Foundation/Arcade-Learning-Environment |
-| 2012 | MNIST | Database of Handwritten Digit Images for Machine Learning Research | https://ieeexplore.ieee.org/document/6296535 | http://yann.lecun.com/exdb/mnist/ |
-| 2009 | ImageNet |Image database organized according to the WordNet hierarchy (currently only the nouns)| https://ieeexplore.ieee.org/document/5206848 | https://www.image-net.org/ |
+| [2022](https://ceur-ws.org/Vol-3342/paper-8.pdf) | Causal Relation Benchmark | Knowledge Graph Embeddings for Causal Relation Prediction | [Paper](https://ceur-ws.org/Vol-3342/paper-8.pdf) | [Zenodo](https://zenodo.org/records/7195904) |
+| [2022](https://arxiv.org/abs/2309.12423) | Wikidata Causal Event Triple Data | Event Prediction using Case-Based Reasoning over Knowledge Graphs | [Paper](https://arxiv.org/abs/2309.12423) | [Zenodo](https://zenodo.org/records/7196049) |
+| [2022](https://arxiv.org/abs/2206.06192) | Switchboard | Collection of Recognition of conversational speech over telephone | [Paper](https://arxiv.org/abs/2206.06192) | [Benchmarks.AI](https://benchmarks.ai/switchboard) |
+| [2019](https://aclanthology.org/N19-1072/) | LitePyramid | Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation | [Paper](https://aclanthology.org/N19-1072/) | [GitHub](https://github.com/OriShapira/LitePyramids) |
+| [2019](https://arxiv.org/abs/1804.07461) | GLUE | General Language Understanding Evaluation (GLUE) benchmark | [Paper](https://arxiv.org/abs/1804.07461) | [GLUE Benchmark](https://gluebenchmark.com/) |
+| [2019](https://arxiv.org/abs/1908.06177) | CLUTRR (Meta) | A Diagnostic Benchmark for Inductive Reasoning from Text | [Paper](https://arxiv.org/abs/1908.06177) | [GitHub](https://github.com/facebookresearch/clutrr) |
+| [2016](https://github.com/rajpurkar/SQuAD-explorer) | SQuAD | 100,000+ Questions for Machine Comprehension of Text | [Paper](https://arxiv.org/abs/1606.05250) | [GitHub](https://rajpurkar.github.io/SQuAD-explorer/) |
+| [2012](https://arxiv.org/abs/1207.4708) | Atari | The Arcade Learning Environment: An Evaluation Platform for General Agents | [Paper](https://arxiv.org/abs/1207.4708) | [GitHub](https://github.com/Farama-Foundation/Arcade-Learning-Environment) |
+| [2012](https://ieeexplore.ieee.org/document/6296535) | MNIST | Database of Handwritten Digit Images for Machine Learning Research | [Paper](https://ieeexplore.ieee.org/document/6296535) | [MNIST](http://yann.lecun.com/exdb/mnist/) |
+| [2009](https://ieeexplore.ieee.org/document/5206848) | ImageNet | Image database organized according to the WordNet hierarchy (currently only the nouns) | [Paper](https://ieeexplore.ieee.org/document/5206848) | [ImageNet](https://www.image-net.org/) |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
+| []() |   |   | [Paper]() | [GitHub]() |
 
 ## Generative AI - Impactful projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023 | Fairseq (Meta) | Toolkit for LLM's | various (see GitHub page) | https://github.com/facebookresearch/fairseq/ |
-| 2020 | Octopus Paper | Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data | https://aclanthology.org/2020.acl-main.463/ | N/A |
-| 2019 | T5 (Meta) | text to text transfer transformer | various - see https://arxiv.org/abs/1910.10683 | https://github.com/google-research/text-to-text-transfer-transformer |
-| 2023 | T5X | Toolkit for LLM's | various - see https://arxiv.org/abs/2203.17189 | https://github.com/google-research/t5x |
+| [2023](https://github.com/facebookresearch/fairseq/) | Fairseq (Meta) | Toolkit for LLM's | various (see GitHub page) | [GitHub](https://github.com/facebookresearch/fairseq/) |
+| [2023](https://arxiv.org/abs/2203.17189) | T5X | Toolkit for LLM's | various - see [Paper](https://arxiv.org/abs/2203.17189) | [GitHub](https://github.com/google-research/t5x) |
+| [2020](https://aclanthology.org/2020.acl-main.463/) | Octopus Paper | Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data | [Paper](https://aclanthology.org/2020.acl-main.463/) | N/A |
+| [2019](https://arxiv.org/abs/1910.10683) | T5 (Meta) | text to text transfer transformer | various - see [Paper](https://arxiv.org/abs/1910.10683) | [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
 
 ## Generative AI landscape (2023) - There is an AI for literally everything 
 
 ### Code llama
-  > https://codellama.dev/about
+  > [CodeLLama](https://codellama.dev/about)
 
-https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/
+[2023 generative AI landscape - link 1](https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/)
 
-https://www.datacamp.com/cheat-sheet/the-generative-ai-tools-landscape
+[2023 generative AI landscape - link 2](https://www.datacamp.com/cheat-sheet/the-generative-ai-tools-landscape)
 
 ![generative AI landscape](https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/8c5de914-1b44-4c79-a416-d9b5de249acf)
 
