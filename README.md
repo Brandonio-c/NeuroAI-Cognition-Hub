@@ -78,6 +78,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2023 | TextWorldExpress | Simulating Text Games at One Million Steps Per Second | https://arxiv.org/abs/2208.01174 | https://github.com/cognitiveailab/TextWorldExpress, https://github.com/microsoft/TextWorld |
 | 2023 | ParlAI |  Python framework for sharing, training and testing dialogue models, from open-domain chitchat | N/A (Meta) | https://github.com/facebookresearch/ParlAI, https://parl.ai/ |
 | 2023 | NeuroConcept | Compositional diversity in visual concept learning | https://arxiv.org/abs/2305.19374 | N/A yet  |
+| 2023 | DWD overlay | The DARPA Wikidata Overlay | https://aclanthology.org/2023.isa-1.1.pdf | https://github.com/e-spaulding/xpo |
+| 2023 | HITL-Schema | Human-in-the-Loop Schema Induction | https://arxiv.org/abs/2302.13048 | https://aclanthology.org/2023.acl-demo.1/ |
+| 2023 | RAMFIS | REPRESENTATION OF VECTORS AND ABSTRACT MEANINGS FOR INFORMATION SYNTHESIS | https://apps.dtic.mil/sti/trecms/pdf/AD1202435.pdf | N/A (U.S. Air Force) |
 | 2022 | ScienceWorld | ScienceWorld: Is your Agent Smarter than a 5th Grader? | https://arxiv.org/abs/2203.07540 | https://github.com/allenai/ScienceWorld |
 | 2022 | D&D as a Dialogue | Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence | https://arxiv.org/abs/2210.07109 | N/A |
 | 2022 | QALD | QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers | https://arxiv.org/abs/2202.00120 | https://github.com/ag-sc/QALD/tree/master |
@@ -91,8 +94,11 @@ Cognition within AI is an essential aspect of building machines that can think a
 | 2019 | KAIROS | Knowledge-directed Artificial Intelligence Reasoning Over Schemas | N/A (not available yet) | https://www.darpa.mil/program/knowledge-directed -artificial-intelligence-reasoning-over-schemas |
 | 2019 | KBTE | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks| https://arxiv.org/abs/1911.02060 | https://github.com/IBM/knowledge-enabled-textual-entailment|
 | 2018 | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A (Microsoft)| https://github.com/microsoft/jericho |
+| 2012-18  | VerbNet  | the largest on-line network of English verbs that links their syntactic and semantic patterns | https://verbs.colorado.edu/verbnet/ | https://github.com/cu-clear/verbnet |
+| 2016 | ConceptNet (5.5)  | An Open Multilingual Graph of General Knowledge | https://arxiv.org/abs/1612.03975 , https://conceptnet.io/ | https://github.com/commonsense/conceptnet5/ , https://github.com/commonsense/conceptnet |
 | 2014 | WikiData | a free collaborative knowledgebase | https://dl.acm.org/doi/10.1145/2629489 | https://github.com/Wikidata |
 | 2007 | GeoQuery| a bridge between the Gene Expression Omnibus (GEO) and BioConductor | https://academic.oup.com/bioinformatics /article/23/14/1846/190290 | https://github.com/seandavi/GEOquery |
+| | | | | |
 | | | | | |
 | | | | | |
 
