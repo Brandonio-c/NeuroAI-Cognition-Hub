@@ -43,39 +43,13 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Symbolic Reasoning AI major projects
 
-| Publication Year | Name | Description | Paper Link | GitHub Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023 | Cyc by Cycorp |Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | https://arxiv.org/abs/2308.04445 | https://github.com/cycorp |
-| 2023 | AMR (3.0) | Abstract Meaning Representation (Bank)  | https://aclanthology.org/W13-2322.pdf | https://amr.isi.edu/ |
-| 2023 | AMR (3.0)  | Abstract Meaning Representation (AMR) Annotation Release 3.0 | https://doi.org/10.35111/44cy-bp51 | https://catalog.ldc.upenn.edu/LDC2020T02 |
-| 2023 | AMR Parsing | Transition-based Neural Parser | Various - see  https://paperswithcode.com/task/amr-parsing | https://github.com/IBM/transition-amr-parser |
-| 2023 | Logic & Info | Towards a Unification of Logic and Information Theory | https://arxiv.org/abs/2301.10414 | N/A |
-| 2022 | N/A | A Semantic Framework for Neural-Symbolic Computing | https://arxiv.org/abs/2212.12050 | N/A 
-| 2022 | RoboCat |A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming |https://ieeexplore.ieee.org/document/9488275 | N/A |
-| 2022 | LinkBERT | Pretraining Language Models with Document Links | https://arxiv.org/abs/2203.15827 | https://github.com/michiyasunaga/LinkBERT |
-| 2021 | Crema | Logical Credal Networks | https://arxiv.org/abs/2109.12240 | https://github.com/radum2275/crema |
-| 2021 | DeepStochLog | Neural Stochastic Logic Programming | https://arxiv.org/abs/2106.12574 | https://github.com/ML-KULeuven/deepstochlog |
-| 2021 | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | https://ieeexplore.ieee.org/document/9415044 | https://github.com/songtaogithub/LNN |
-| 2021 | Structured-BART | Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs | https://arxiv.org/abs/2104.08400 | https://github.com/SALT-NLP/Structure-Aware-BART |
-| 2020 | LTN | Logic Tensor Networks | https://arxiv.org/abs/2012.13635 | https://github.com/logictensornetworks/logictensornetworks |
-| 2020 | SenseBERT | Driving Some Sense into BERT | https://arxiv.org/abs/1908.05646 | https://github.com/AI21Labs/sense-bert |
-| 2019 | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | https://arxiv.org/abs/1905.06088 | N/A |
-| 2019 | BART (Meta) | Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | https://arxiv.org/abs/1910.13461 | https://github.com/facebookresearch/bart_ls |
-| 2018 | DeepProbLog | Neural Probabilistic Logic Programming  | https://arxiv.org/abs/1805.10872 | https://github.com/ML-KULeuven/deepproblog, https://dtai.cs.kuleuven.be/problog/) |
-| 2018 | KBNN | A Semantic Loss Function for Deep Learning with Symbolic Knowledge | http://proceedings.mlr.press/v80/xu18h.html | https://github.com/npepperUQLab/Knowledge-Based-Neural-Network- |
-| 2018 | BERT (Google) |  Pre-training of Deep Bidirectional Transformers for Language Understanding | https://arxiv.org/abs/1810.04805 | https://github.com/google-research/bert |
-| 2007 | Modal | Connectionist modal logic: Representing modalities in neural networks | https://www.sciencedirect.com/science /article/pii/S030439750600750X | https://github.com/rkirsling/modallogic |
-| 2003 | DAMLJessKB |A Tool for Reasoning with the Semantic Web |https://ieeexplore.ieee.org/document/1200733 | N/A |
-| 2021 | Structured-BART | Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs | https://arxiv.org/abs/2104.08400 | https://github.com/SALT-NLP/Structure-Aware-BART |
-| 2021 | 2P-Kt | A logic-based ecosystem for symbolic AI | https://www.sciencedirect.com/science/article/pii/S2352711021001126 | https://github.com/tuProlog/2p-kt, https://pika-lab.gitlab.io/tuprolog/2p-kt-web/|
-| | | | | |
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [2023](https://arxiv.org/abs/2308.04445) | Cyc by Cycorp | Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | [Paper](https://arxiv.org/abs/2308.04445) | [GitHub](https://github.com/cycorp) |
 | [2023](https://aclanthology.org/W13-2322.pdf) | AMR (3.0) | Abstract Meaning Representation (Bank) | [Paper](https://aclanthology.org/W13-2322.pdf) | [Website](https://amr.isi.edu/) |
 | [2023](https://doi.org/10.35111/44cy-bp51) | AMR (3.0) | Abstract Meaning Representation (AMR) Annotation Release 3.0 | [Paper](https://doi.org/10.35111/44cy-bp51) | [LDC Catalog](https://catalog.ldc.upenn.edu/LDC2020T02) |
-| 2023 | AMR Parsing | Transition-based Neural Parser | [Papers with Code](https://paperswithcode.com/task/amr-parsing) | [GitHub](https://github.com/IBM/transition-amr-parser) |
+| [2023](https://paperswithcode.com/task/amr-parsing) | AMR Parsing | Transition-based Neural Parser | [Papers with Code](https://paperswithcode.com/task/amr-parsing) | [GitHub](https://github.com/IBM/transition-amr-parser) |
 | [2023](https://arxiv.org/abs/2301.10414) | Logic & Info | Towards a Unification of Logic and Information Theory | [Paper](https://arxiv.org/abs/2301.10414) | N/A |
 | [2022](https://arxiv.org/abs/2212.12050) | N/A | A Semantic Framework for Neural-Symbolic Computing | [Paper](https://arxiv.org/abs/2212.12050) | N/A |
 | [2022](https://ieeexplore.ieee.org/document/9488275) | RoboCat | A Category Theoretic Framework for Robotic Interoperability Using Goal-Oriented Programming | [Paper](https://ieeexplore.ieee.org/document/9488275) | N/A |
@@ -84,6 +58,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2021](https://arxiv.org/abs/2106.12574) | DeepStochLog | Neural Stochastic Logic Programming | [Paper](https://arxiv.org/abs/2106.12574) | [GitHub](https://github.com/ML-KULeuven/deepstochlog) |
 | [2021](https://ieeexplore.ieee.org/document/9415044) | PLNN | Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning | [Paper](https://ieeexplore.ieee.org/document/9415044) | [GitHub](https://github.com/songtaogithub/LNN) |
 | [2021](https://arxiv.org/abs/2104.08400) | Structured-BART | Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs | [Paper](https://arxiv.org/abs/2104.08400) | [GitHub](https://github.com/SALT-NLP/Structure-Aware-BART) |
+| [2021](https://www.sciencedirect.com/science/article/pii/S2352711021001126) | 2P-Kt | A logic-based ecosystem for symbolic AI | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021001126) | [GitHub (tuProlog)](https://github.com/tuProlog/2p-kt), [Pika-Lab](https://pika-lab.gitlab.io/tuprolog/2p-kt-web/) |
 | [2020](https://arxiv.org/abs/2012.13635) | LTN | Logic Tensor Networks | [Paper](https://arxiv.org/abs/2012.13635) | [GitHub](https://github.com/logictensornetworks/logictensornetworks) |
 | [2020](https://arxiv.org/abs/1908.05646) | SenseBERT | Driving Some Sense into BERT | [Paper](https://arxiv.org/abs/1908.05646) | [GitHub](https://github.com/AI21Labs/sense-bert) |
 | [2019](https://arxiv.org/abs/1905.06088) | CILP | Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning | [Paper](https://arxiv.org/abs/1905.06088) | N/A |
@@ -93,7 +68,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2018](https://arxiv.org/abs/1810.04805) | BERT (Google) | Pre-training of Deep Bidirectional Transformers for Language Understanding | [Paper](https://arxiv.org/abs/1810.04805) | [GitHub](https://github.com/google-research/bert) |
 | [2007](https://www.sciencedirect.com/science/article/pii/S030439750600750X) | Modal | Connectionist modal logic: Representing modalities in neural networks | [Paper](https://www.sciencedirect.com/science/article/pii/S030439750600750X) | [GitHub](https://github.com/rkirsling/modallogic) |
 | [2003](https://ieeexplore.ieee.org/document/1200733) | DAMLJessKB | A Tool for Reasoning with the Semantic Web | [Paper](https://ieeexplore.ieee.org/document/1200733) | N/A |
-| [2021](https://www.sciencedirect.com/science/article/pii/S2352711021001126) | 2P-Kt | A logic-based ecosystem for symbolic AI | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021001126) | [GitHub (tuProlog)](https://github.com/tuProlog/2p-kt), [Pika-Lab](https://pika-lab.gitlab.io/tuprolog/2p-kt-web/) |
+
 
 
 ## Knowledge representation major projects
