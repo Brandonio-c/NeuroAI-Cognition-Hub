@@ -90,6 +90,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2022](https://arxiv.org/abs/2210.07109) | D&D as a Dialogue | Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence | [Paper](https://arxiv.org/abs/2210.07109) | N/A |
 | [2022](https://arxiv.org/abs/2202.00120) | QALD | QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers | [Paper](https://arxiv.org/abs/2202.00120) | [GitHub](https://github.com/ag-sc/QALD/tree/master) |
 | [2022](https://www.ijcai.org/proceedings/2022/850) | Foresee | Knowledge-Based News Event Analysis and Forecasting Toolkit | [Paper](https://www.ijcai.org/proceedings/2022/850) | N/A |
+| [2002-22]([Prop](https://propbank.github.io/)) | PropBank  |  PropBank (proposition bank) approach to semantic role labeling over the last two decades | [Paper](https://aclanthology.org/2022.starsem-1.24/) | [GitHub](https://github.com/propbank/) |
+| [2017-22](https://universalpropositions.github.io/) | Universal PropBank  |  annotate text in different languages with a layer of "universal" semantic role labeling annotation | [Paper - see publications](https://universalpropositions.github.io/) | [GitHub](https://github.com/UniversalPropositions) |
 | [2021](https://arxiv.org/abs/2110.10963) | Neuro-Symbolic RL | Neuro-Symbolic Reinforcement Learning with First-Order Logic | [Paper](https://arxiv.org/abs/2110.10963) | [Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/) |
 | [2021](https://aclanthology.org/2021.emnlp-main.245/) | Neuro-Symbolic learning | Neuro-Symbolic Approaches for Text-Based Policy Learning | [Paper](https://aclanthology.org/2021.emnlp-main.245/) | N/A |
 | [2021](https://arxiv.org/abs/2104.08811) | Human Schema | Human Schema Curation via Causal Association Rule Mining | [Paper](https://arxiv.org/abs/2104.08811) | links (including KAIROS links) inside of paper |
@@ -106,7 +108,6 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2016](https://arxiv.org/abs/1612.03975) | ConceptNet (5.5) | An Open Multilingual Graph of General Knowledge | [Paper](https://arxiv.org/abs/1612.03975) | [GitHub](https://github.com/commonsense/conceptnet5/), [ConceptNet](https://conceptnet.io/) |
 | [2014](https://dl.acm.org/doi/10.1145/2629489) | WikiData | a free collaborative knowledgebase | [Paper](https://dl.acm.org/doi/10.1145/2629489) | [GitHub](https://github.com/Wikidata) |
 | [2007](https://academic.oup.com/bioinformatics/article/23/14/1846/190290) | GeoQuery | a bridge between the Gene Expression Omnibus (GEO) and BioConductor | [Paper](https://academic.oup.com/bioinformatics/article/23/14/1846/190290) | [GitHub](https://github.com/seandavi/GEOquery) |
-| []() |   |   | [Paper]() | [GitHub]() |
 | []() |   |   | [Paper]() | [GitHub]() |
 | []() |   |   | [Paper]() | [GitHub]() |
 
