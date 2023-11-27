@@ -199,70 +199,70 @@ Cognition within AI is an essential aspect of building machines that can think a
 ### Image Applications
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
-| 2D Image Generation                                | 16              |
-| Web Design, Color Palette Generation              | 6                |
-| Image Editing, Enhancement & Style Transfer       | 7               |
-| Ad Generation                                     | 5                |
-| Presentations/Slide Generation                    | 10               |
-| 3D Image Generation                               | 6                |
-| Digital People Generation                         | 6                |
+| 2D Image Generation                              | 16              |
+| Web Design, Color Palette Generation             | 6                |
+| Image Editing, Enhancement & Style Transfer      | 7               |
+| Ad Generation                                    | 5                |
+| Presentations/Slide Generation                   | 10               |
+| 3D Image Generation                              | 6                |
+| Digital People Generation                        | 6                |
 
 ### Video Applications
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
-| Video Generation From Text                        | 6                |
-| Video Editing                                      | 6               |
+| Video Generation From Text                       | 6                |
+| Video Editing                                    | 6               |
 | Video Personalization & Derivative Content Generation | 7             |    
 
 ### Audio Applications
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
-| Music Generation                                  | 12               |
-| Text to Speech                                    | 12               |
+| Music Generation                                 | 12               |
+| Text to Speech                                   | 12               |
 
 ### Speech to Text (Transcription) 
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
-| Transcription: General                            | 10               |
-| Transcription: Note Taking                        | 7                |
-| Transcription: Subtitle Generation                 | 6                |
-| Transcription: Podcasts                            | 3               |
-| Transcription: APIs                                | 2                 |
-| Transcription: Other                               | 5                | 
-| Dubbing                                           | 6               |
-| Music Editing & Processing                        | 6                |
-| Speech Editing & Processing                       | 5                |
+| Transcription: General                           | 10               |
+| Transcription: Note Taking                       | 7                |
+| Transcription: Subtitle Generation               | 6                |
+| Transcription: Podcasts                          | 3               |
+| Transcription: APIs                              | 2                 |
+| Transcription: Other                             | 5                | 
+| Dubbing                                          | 6               |
+| Music Editing & Processing                       | 6                |
+| Speech Editing & Processing                      | 5                |
 
 ### Coding Applications 
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
-| Website Generation from Text                      | 7                 | 
-| Website Generation from Figma Designs              | 3                |
-| Website Personalization & Optimization             | 4                 |
-| Code Generation/Completion                        | 12                |
-| Code Analysis & DevOps Intelligence               | 9                |
-| Documentation Generation                          | 5                |
+| Website Generation from Text                     | 7                 | 
+| Website Generation from Figma Designs            | 3                |
+| Website Personalization & Optimization           | 4                 |
+| Code Generation/Completion                       | 12                |
+| Code Analysis & DevOps Intelligence              | 9                |
+| Documentation Generation                         | 5                |
 
 ### Data Applications
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
-| Automated Analysis & Insights                      | 18              |
-| Machine Learning & DataOps                        | 8                |
-| Synthetic Training Data Generation                | 6                |
+| Automated Analysis & Insights                    | 18              |
+| Machine Learning & DataOps                       | 8                |
+| Synthetic Training Data Generation               | 6                |
 
 ### Bots 
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
-| Chatbots                                          | 18               |
-| Personal Assistants & AI Agents                   | 13               |
-| Gaming                                            | 5                |
-| Drug Development                                  | 4              |
+| Chatbots                                         | 18               |
+| Personal Assistants & AI Agents                  | 13               |
+| Gaming                                           | 5                |
+| Drug Development                                 | 4              |
 | Language Learning                                |  11               |
 
 ### Miscellaneous 
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
-| Miscellaneous                                     | 6                |
+| Miscellaneous                                    | 6                |
 
 
 ## Usage
