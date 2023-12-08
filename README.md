@@ -211,6 +211,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Writing Assistance & Translation                 | 3                |
 
 ### Image Applications
+
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | 2D Image Generation                              | 16              |
@@ -222,6 +223,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Digital People Generation                        | 6                |
 
 ### Video Applications
+
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | Video Generation From Text                       | 6                |
@@ -229,12 +231,14 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Video Personalization & Derivative Content Generation | 7             |    
 
 ### Audio Applications
+
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | Music Generation                                 | 12               |
 | Text to Speech                                   | 12               |
 
 ### Speech to Text (Transcription) 
+
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | Transcription: General                           | 10               |
@@ -248,6 +252,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Speech Editing & Processing                      | 5                |
 
 ### Coding Applications 
+
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | Website Generation from Text                     | 7                 | 
@@ -258,6 +263,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Documentation Generation                         | 5                |
 
 ### Data Applications
+
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | Automated Analysis & Insights                    | 18              |
@@ -265,6 +271,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Synthetic Training Data Generation               | 6                |
 
 ### Bots 
+
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | Chatbots                                         | 18               |
@@ -274,6 +281,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Language Learning                                |  11               |
 
 ### Miscellaneous 
+
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | Miscellaneous                                    | 6                |
