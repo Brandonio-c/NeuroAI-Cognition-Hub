@@ -196,6 +196,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 #### Bing Chat (GPT4)
   > [BingChat](https://www.bing.com/search?q=Bing+AI&showconv=1)
 
+#### Gemini (Google 
+  > [Gemini](https://deepmind.google/technologies/gemini/#introduction)
 
 [2023 generative AI landscape - link 1](https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/)
 
