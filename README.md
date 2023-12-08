@@ -9,11 +9,11 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
 3.  [Featured](#featured)
 4.  [Symbolic Reasoning AI major projects](#Symbolic-Reasoning-AI-major-projects)
-5.  [Knowledge representation major projects](#knowledge-ai)
-6.  [Memory AI major projects](memory-ai)
-7.  [Meta-level control major projects](meta-AI)
+5.  [Knowledge representation major projects](#Knowledge-representation-major-projects)
+6.  [Memory AI major projects](#Memory-AI-major-projects)
+7.  [Meta-level control major projects](#Meta-level-control-major-projects)
 8.  [Benchmarks](#benchmarks-ai)
-9.  [Generative AI - Impactful projects](Gen-Ai-Impactful)
+9.  [Generative AI - Impactful projects](#Generative-AI-landscape-(2023)-There-is-an-AI-for-literally-everything)
 10. [Useful AI tools](#useful-tools)
 11. [Usage](#usage)
 12. [Contributing](#contributing)
@@ -171,7 +171,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | []() |   |   | [Paper]() | [GitHub]() |
 | []() |   |   | [Paper]() | [GitHub]() |
 
-## Generative AI - Impactful projects
+## Generative AI-Impactful projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -180,10 +180,22 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2020](https://aclanthology.org/2020.acl-main.463/) | Octopus Paper | Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data | [Paper](https://aclanthology.org/2020.acl-main.463/) | N/A |
 | [2019](https://arxiv.org/abs/1910.10683) | T5 (Meta) | text to text transfer transformer | various - see [Paper](https://arxiv.org/abs/1910.10683) | [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
 
-## Generative AI landscape (2023) - There is an AI for literally everything 
+## Generative AI landscape (2023)-There is an AI for literally everything 
 
-### Code llama
+### LLM chatbots 
+
+#### Code llama
   > [CodeLLama](https://codellama.dev/about)
+
+#### OpenAI (ChatGPT)
+  > [OpenAI](https://openai.com/)
+
+#### Claude
+  > [Claude](https://claude.ai/chats)
+
+#### Bing Chat (GPT4)
+  > [BingChat](https://www.bing.com/search?q=Bing+AI&showconv=1)
+
 
 [2023 generative AI landscape - link 1](https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/)
 
