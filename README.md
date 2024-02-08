@@ -47,7 +47,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
 | ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
-| [2023](https://arxiv.org/abs/2308.04445) | Cyc by Cycorp | Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | [Paper](https://arxiv.org/abs/2308.04445) | [![Star](https://img.shields.io/github/stars/cycorp/cyc.svg?style=social)](https://github.com/cycorp) | Summary Here |
+| [2023](https://arxiv.org/abs/2308.04445) | Cyc by Cycorp | Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc | [![arXiv 2023](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://arxiv.org/abs/2308.04445)
+ | [![Star](https://img.shields.io/github/stars/cycorp/cyc.svg?style=social)](https://github.com/cycorp) | Summary Here |
 | [2023](https://aclanthology.org/W13-2322.pdf) | AMR (3.0) | Abstract Meaning Representation (Bank) | [Paper](https://aclanthology.org/W13-2322.pdf) | [Website](https://amr.isi.edu/) | Summary Here |
 | [2023](https://doi.org/10.35111/44cy-bp51) | AMR (3.0) | Abstract Meaning Representation (AMR) Annotation Release 3.0 | [Paper](https://doi.org/10.35111/44cy-bp51) | [LDC Catalog](https://catalog.ldc.upenn.edu/LDC2020T02) | Summary Here |
 | [2023](https://paperswithcode.com/task/amr-parsing) | AMR Parsing | Transition-based Neural Parser | [Papers with Code](https://paperswithcode.com/task/amr-parsing) | [![Star](https://img.shields.io/github/stars/IBM/transition-amr-parser.svg?style=social)](https://github.com/IBM/transition-amr-parser) | Summary Here |
