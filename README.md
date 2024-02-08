@@ -13,8 +13,8 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 6.  [Memory AI major projects](#Memory-AI-major-projects)
 7.  [Meta-level control major projects](#Meta-level-control-major-projects)
 8.  [Benchmarks](#benchmarks-ai)
-9.  [Generative AI - Impactful Projects](#Generative-AI-landscape-(2024)-There-is-an-AI-for-literally-everything)
-10. [Useful AI tools](#useful-ai-tools)
+9.  [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
+10. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
 11. [Usage](#usage)
 12. [Contributing](#contributing)
 13. [License](#license)
@@ -171,8 +171,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | []() |   |   | [Paper]() | [GitHub]() |
 | []() |   |   | [Paper]() | [GitHub]() |
 
-## Generative AI - Impactful Projects {#Generative-AI-landscape-(2024)-There-is-an-AI-for-literally-everything}
-
+## Generative AI Impactful Projects
 
 | Publication Year | Name | Description | Paper Link | GitHub Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -181,6 +180,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2020](https://aclanthology.org/2020.acl-main.463/) | Octopus Paper | Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data | [Paper](https://aclanthology.org/2020.acl-main.463/) | N/A |
 | [2019](https://arxiv.org/abs/1910.10683) | T5 (Meta) | text to text transfer transformer | various - see [Paper](https://arxiv.org/abs/1910.10683) | [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
 
+## Useful AI tools (2024) - There's literally an AI for everything
 
 ### LLM chatbots 
 
