@@ -182,26 +182,14 @@ Cognition within AI is an essential aspect of building machines that can think a
 | []() |   |   | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)]() |  [![Star](https://img.shields.io/github/)](https://github.com/)) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 
 
-
-
 ## Useful AI tools (2024) - There's literally an AI for everything
 
-### LLM chatbots 
+- [![Website](https://img.shields.io/badge/Website-CodeLlama-red)](https://codellama.dev/about) - Explore CodeLlama, a platform for LLM chatbots.
+- [![Website](https://img.shields.io/badge/Website-OpenAI_ChatGPT-red)](https://openai.com/) - Learn about OpenAI's ChatGPT technology.
+- [![Website](https://img.shields.io/badge/Website-Claude-red)](https://claude.ai/chats) - Discover Claude's AI chat capabilities.
+- [![Website](https://img.shields.io/badge/Website-Bing_Chat_GPT4-red)](https://www.bing.com/search?q=Bing+AI&showconv=1) - Experience Bing Chat powered by GPT-4.
+- [![Website](https://img.shields.io/badge/Website-Gemini_by_Google-red)](https://deepmind.google/technologies/gemini/#introduction) - Introduction to Gemini, Google's AI technology.
 
-#### Code llama
-  > [CodeLLama](https://codellama.dev/about)
-
-#### OpenAI (ChatGPT)
-  > [OpenAI](https://openai.com/)
-
-#### Claude
-  > [Claude](https://claude.ai/chats)
-
-#### Bing Chat (GPT4)
-  > [BingChat](https://www.bing.com/search?q=Bing+AI&showconv=1)
-
-#### Gemini (Google 
-  > [Gemini](https://deepmind.google/technologies/gemini/#introduction)
 
 [2023 generative AI landscape - link 1](https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/)
 
