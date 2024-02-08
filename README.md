@@ -301,11 +301,12 @@ Cognition within AI is an essential aspect of building machines that can think a
 | ------------------------------------------------ | -----------------|
 | Miscellaneous                                    | 6                |
 
-## Links to other useful GitHub page
+## Links to other useful GitHub pages
 
- https://github.com/horseee/Awesome-Efficient-LLM 
- https://github.com/asahi417/AnalogyTools 
- https://github.com/totogo/awesome-knowledge-graph
+- [![Star](https://img.shields.io/github/stars/horseee/Awesome-Efficient-LLM.svg?style=social)](https://github.com/horseee/Awesome-Efficient-LLM) [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) - A comprehensive collection of resources on Efficient Large Language Models.
+- [![Star](https://img.shields.io/github/stars/asahi417/AnalogyTools.svg?style=social)](https://github.com/asahi417/AnalogyTools) [AnalogyTools](https://github.com/asahi417/AnalogyTools) - Repository dedicated to tools for analogy-based learning and reasoning in AI.
+- [![Star](https://img.shields.io/github/stars/totogo/awesome-knowledge-graph.svg?style=social)](https://github.com/totogo/awesome-knowledge-graph) [Awesome-Knowledge-Graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of awesome knowledge graph resources, papers, and tools.
+
 
 ## Usage
 
