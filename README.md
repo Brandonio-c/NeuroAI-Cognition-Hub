@@ -140,20 +140,19 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Meta-level control major projects
 
-| Publication Year | Name | Description | Paper Link | GitHub Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [2023](https://groundhog-shallot-pen6.squarespace.com/explicable-insights) | CORA | Elemental AI Cognition product | N/A | [Website](https://groundhog-shallot-pen6.squarespace.com/explicable-insights) |
-| [2023](https://direct.mit.edu/pages/cognet) | MIT COGENT | Elemental AI Cognition product | [MITECS](https://direct.mit.edu/books/edited-volume/5452/The-MIT-Encyclopedia-of-the-Cognitive-Sciences) | [MIT CogNet ](https://direct.mit.edu/pages/cognet) |
-| [2022](https://arxiv.org/abs/2011.13354) | BRAID | Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations | [Paper](https://arxiv.org/abs/2011.13354) | [ec.ai](https://ec.ai/) |
-| [2022](https://arxiv.org/abs/2205.07830) | FactPEGASUS | Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization | [Paper](https://arxiv.org/abs/2205.07830) | [GitHub](https://github.com/meetdavidwan/factpegasus) |
-| [2022](https://arxiv.org/abs/2204.06508) | FactGraph | FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations | [Paper](https://arxiv.org/abs/2204.06508) | [GitHub](https://github.com/amazon-science/fact-graph) |
-| [2022](https://arxiv.org/abs/2210.01240) | PrOntoQa | A Systematic Formal Analysis of Chain-of-Thought | [Paper](https://arxiv.org/abs/2210.01240) | [GitHub](https://github.com/asaparov/prontoqa) |
-| [2021](https://arxiv.org/abs/2110.01834) | SOFAI | Thinking Fast and Slow in AI: the Role of Metacognition | [Paper](https://arxiv.org/abs/2110.01834) | [Website](https://sites.google.com/view/sofai/home) |
-| [2021](https://arxiv.org/abs/2010.10597) | SKATE | A Natural Language Interface for Encoding Structured Knowledge | [Paper](https://arxiv.org/abs/2010.10597) | [ec.ai](https://ec.ai/) |
-| [2020](https://arxiv.org/abs/2009.07758) | GLUCOSE | GeneraLized and COntextualized Story Explanations | [Paper](https://arxiv.org/abs/2009.07758) | [ec.ai](https://ec.ai/) |
-| []() |   |   | [Paper]() | [GitHub]() |
-| []() |   |   | [Paper]() | [GitHub]() |
-| []() |   |   | [Paper]() | [GitHub]() |
+| Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
+| ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
+| [2023](https://groundhog-shallot-pen6.squarespace.com/explicable-insights) | CORA | Elemental AI Cognition product | N/A | [![Website](https://img.shields.io/badge/Website-CORA-red)](https://groundhog-shallot-pen6.squarespace.com/explicable-insights) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2023](https://direct.mit.edu/pages/cognet) | MIT COGENT | Elemental AI Cognition product | [![Conference](https://img.shields.io/badge/Conference-MITECS-blue)](https://direct.mit.edu/books/edited-volume/5452/The-MIT-Encyclopedia-of-the-Cognitive-Sciences) | [![Website](https://img.shields.io/badge/Website-MIT_CogNet-red)](https://direct.mit.edu/pages/cognet) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2022](https://arxiv.org/abs/2011.13354) | BRAID | Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations | [![Paper](https://img.shields.io/badge/Paper-ArXiv'22-blue)](https://arxiv.org/abs/2011.13354) | [![GitHub](https://img.shields.io/badge/GitHub-BRAID-star)](https://ec.ai/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2022](https://arxiv.org/abs/2205.07830) | FactPEGASUS | Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization | [![Paper](https://img.shields.io/badge/Paper-ArXiv'22-blue)](https://arxiv.org/abs/2205.07830) | [![GitHub](https://img.shields.io/badge/GitHub-FactPEGASUS-star)](https://github.com/meetdavidwan/factpegasus) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2022](https://arxiv.org/abs/2204.06508) | FactGraph | FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations | [![Paper](https://img.shields.io/badge/Paper-ArXiv'22-blue)](https://arxiv.org/abs/2204.06508) | [![GitHub](https://img.shields.io/badge/GitHub-FactGraph-star)](https://github.com/amazon-science/fact-graph) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2022](https://arxiv.org/abs/2210.01240) | PrOntoQa | A Systematic Formal Analysis of Chain-of-Thought | [![Paper](https://img.shields.io/badge/Paper-ArXiv'22-blue)](https://arxiv.org/abs/2210.01240) | [![GitHub](https://img.shields.io/badge/GitHub-PrOntoQa-star)](https://github.com/asaparov/prontoqa) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2021](https://arxiv.org/abs/2110.01834) | SOFAI | Thinking Fast and Slow in AI: the Role of Metacognition | [![Paper](https://img.shields.io/badge/Paper-ArXiv'21-blue)](https://arxiv.org/abs/2110.01834) | [![Website](https://img.shields.io/badge/Website-SOFAI-red)](https://sites.google.com/view/sofai/home) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2021](https://arxiv.org/abs/2010.10597) | SKATE | A Natural Language Interface for Encoding Structured Knowledge | [![Paper](https://img.shields.io/badge/Paper-ArXiv'21-blue)](https://arxiv.org/abs/2010.10597) | [![Website](https://img.shields.io/badge/Website-SKATE-red)](https://ec.ai/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2020](https://arxiv.org/abs/2009.07758) | GLUCOSE | GeneraLized and COntextualized Story Explanations | [![Paper](https://img.shields.io/badge/Paper-ArXiv'20-blue)](https://arxiv.org/abs/2009.07758) | [![Website](https://img.shields.io/badge/Website-GLUCOSE-red)](https://ec.ai/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| []() |   |   | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)]() |  [![Star](https://img.shields.io/github/)](https://github.com/)) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| []() |   |   | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)]() |  [![Star](https://img.shields.io/github/)](https://github.com/)) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 
 ## Benchmarks 
 
