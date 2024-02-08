@@ -21,7 +21,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 
 Up to week 09 day 04 (just started this week)
 
-## About Neuro-Symbolic AI - 2024 synopsis
+## About Neuro-Symbolic AI
 
 Neuro-symbolic AI is an interdisciplinary approach that combines symbolic reasoning with neural networks to create more advanced and intelligent AI systems. This repository will provide links to research papers, articles, and tools that explore this integration.
 
