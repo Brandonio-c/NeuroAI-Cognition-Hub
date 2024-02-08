@@ -36,11 +36,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Featured 
 
-### Deep Learning Is Hitting a Wall - Gary Marcus 
-> https://nautil.us/deep-learning-is-hitting-a-wall-238440/ 
+- [![Website](https://img.shields.io/badge/Website-Deep_Learning_Is_Hitting_A_Wall-red)](https://nautil.us/deep-learning-is-hitting-a-wall-238440/) - "Deep Learning Is Hitting a Wall" by Gary Marcus.
 
-### OpenCog
-  > https://github.com/opencog
+- [![GitHub](https://img.shields.io/badge/Website-OpenCog-red)](https://github.com/opencog) - Visit the GitHub repository for OpenCog.
 
 ## Symbolic Reasoning AI major projects
 
