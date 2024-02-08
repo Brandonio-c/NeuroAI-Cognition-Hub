@@ -6,7 +6,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 ## Table of Contents
 
 1.  [About Neuro-Symbolic AI and the Common Model of Cognition](#about-neuro-symbolic-ai)
-2.  [Cognition in AI - 2023 synopsis](#cognition-in-ai)
+2.  [Cognition in AI - 2024 synopsis](#cognition-in-ai)
 3.  [Featured](#featured)
 4.  [Symbolic Reasoning AI major projects](#Symbolic-Reasoning-AI-major-projects)
 5.  [Knowledge representation major projects](#Knowledge-representation-major-projects)
@@ -21,7 +21,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 
 Up to week 09 day 04 (just started this week)
 
-## About Neuro-Symbolic AI
+## About Neuro-Symbolic AI - 2024 synopsis
 
 Neuro-symbolic AI is an interdisciplinary approach that combines symbolic reasoning with neural networks to create more advanced and intelligent AI systems. This repository will provide links to research papers, articles, and tools that explore this integration.
 
