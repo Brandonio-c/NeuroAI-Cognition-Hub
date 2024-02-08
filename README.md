@@ -188,10 +188,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 - [![Website](https://img.shields.io/badge/Website-Bing_Chat_GPT4-red)](https://www.bing.com/search?q=Bing+AI&showconv=1) - Experience Bing Chat powered by GPT-4.
 - [![Website](https://img.shields.io/badge/Website-Gemini_by_Google-red)](https://deepmind.google/technologies/gemini/#introduction) - Introduction to Gemini, Google's AI technology.
 
+- [![Website](https://img.shields.io/badge/Website-2023_Generative_AI_Landscape_Link_1-red)](https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/) - "2023 Generative AI Landscape" on LinkedIn by Florian Belschner.
 
-[2023 generative AI landscape - link 1](https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/)
-
-[2023 generative AI landscape - link 2](https://www.datacamp.com/cheat-sheet/the-generative-ai-tools-landscape)
+- [![Website](https://img.shields.io/badge/Website-2023_Generative_AI_Landscape_Link_2-red)](https://www.datacamp.com/cheat-sheet/the-generative-ai-tools-landscape) - "The Generative AI Tools Landscape" on DataCamp.
 
 ![generative AI landscape](https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/8c5de914-1b44-4c79-a416-d9b5de249acf)
 
