@@ -13,7 +13,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 6.  [Memory AI major projects](#Memory-AI-major-projects)
 7.  [Meta-level control major projects](#Meta-level-control-major-projects)
 8.  [Benchmarks](#benchmarks-ai)
-9.  [Generative AI - Impactful Projects](#generative-ai---impactful-projects)
+9.  [Generative AI - Impactful Projects](#Generative-AI-landscape-(2023)-There-is-an-AI-for-literally-everything)
 10. [Useful AI tools](#useful-ai-tools)
 11. [Usage](#usage)
 12. [Contributing](#contributing)
