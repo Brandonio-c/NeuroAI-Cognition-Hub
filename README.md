@@ -15,9 +15,10 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 8.  [Benchmarks](#benchmarks)
 9.  [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
 10. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
-11. [Usage](#usage)
-12. [Contributing](#contributing)
-13. [License](#license)
+11. [Links to other useful GitHub pages](#links-to-other-useful-github-pages)
+12. [Usage](#usage)
+13. [Contributing](#contributing)
+14. [License](#license)
 
 Up to week 09 day 04 (just started this week)
 
@@ -300,6 +301,11 @@ Cognition within AI is an essential aspect of building machines that can think a
 | ------------------------------------------------ | -----------------|
 | Miscellaneous                                    | 6                |
 
+## Links to other useful GitHub page
+
+ https://github.com/horseee/Awesome-Efficient-LLM 
+ https://github.com/asahi417/AnalogyTools 
+ https://github.com/totogo/awesome-knowledge-graph
 
 ## Usage
 
