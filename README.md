@@ -194,6 +194,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ![generative AI landscape](https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/8c5de914-1b44-4c79-a416-d9b5de249acf)
 
+
+<!--
 (follow the link above to find a generative model listed under the subheading below) 
 
 ### Text Applications  
@@ -288,6 +290,9 @@ Cognition within AI is an essential aspect of building machines that can think a
 | Application space                                | Number of apps   |
 | ------------------------------------------------ | -----------------|
 | Miscellaneous                                    | 6                |
+
+-->
+
 
 ## Links to other useful GitHub pages
 
