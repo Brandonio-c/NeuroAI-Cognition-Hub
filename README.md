@@ -172,12 +172,17 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Generative AI Impactful Projects
 
-| Publication Year | Name | Description | Paper Link | GitHub Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [2023](https://github.com/facebookresearch/fairseq/) | Fairseq (Meta) | Toolkit for LLM's | various (see GitHub page) | [GitHub](https://github.com/facebookresearch/fairseq/) |
-| [2023](https://arxiv.org/abs/2203.17189) | T5X | Toolkit for LLM's | various - see [Paper](https://arxiv.org/abs/2203.17189) | [GitHub](https://github.com/google-research/t5x) |
-| [2020](https://aclanthology.org/2020.acl-main.463/) | Octopus Paper | Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data | [Paper](https://aclanthology.org/2020.acl-main.463/) | N/A |
-| [2019](https://arxiv.org/abs/1910.10683) | T5 (Meta) | text to text transfer transformer | various - see [Paper](https://arxiv.org/abs/1910.10683) | [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
+| Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
+| ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
+| [2023](https://github.com/facebookresearch/fairseq/) | Fairseq (Meta) | Toolkit for LLM's | various (see GitHub page) | [![GitHub](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social)](https://github.com/facebookresearch/fairseq/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2023](https://arxiv.org/abs/2203.17189) | T5X | Toolkit for LLM's | [![arXiv](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://arxiv.org/abs/2203.17189) | [![GitHub](https://img.shields.io/github/stars/google-research/t5x.svg?style=social)](https://github.com/google-research/t5x) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2020](https://aclanthology.org/2020.acl-main.463/) | Octopus Paper | Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data | [![Conference](https://img.shields.io/badge/Conference-ACL'20-blue)](https://aclanthology.org/2020.acl-main.463/) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2019](https://arxiv.org/abs/1910.10683) | T5 (Meta) | text to text transfer transformer | [![arXiv](https://img.shields.io/badge/arXiv-2019-brightgreen)](https://arxiv.org/abs/1910.10683) | [![GitHub](https://img.shields.io/github/stars/google-research/text-to-text-transfer-transformer.svg?style=social)](https://github.com/google-research/text-to-text-transfer-transformer) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| []() |   |   | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)]() |  [![Star](https://img.shields.io/github/)](https://github.com/)) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| []() |   |   | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)]() |  [![Star](https://img.shields.io/github/)](https://github.com/)) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+
+
+
 
 ## Useful AI tools (2024) - There's literally an AI for everything
 
