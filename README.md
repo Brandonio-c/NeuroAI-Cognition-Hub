@@ -124,9 +124,6 @@ Cognition within AI is an essential aspect of building machines that can think a
 | []() |   |   | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)]() |  [![Star](https://img.shields.io/github/)](https://github.com/)) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 
 
-
-
-
 <!-- <img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4"> -->
 
 
