@@ -10,7 +10,7 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 3.  [Featured](#featured)
 4.  [Symbolic Reasoning AI major projects](#Symbolic-Reasoning-AI-major-projects)
 5.  [Knowledge representation major projects](#Knowledge-representation-major-projects)
-6.  [Cognitive Architectures and Generative Models](Cognitive-Architectures-and-Generative-Models)
+6.  [Cognitive Architectures and Generative Models](#Cognitive-Architectures-and-Generative-Models)
 7.  [Memory AI major projects](#Memory-AI-major-projects)
 8.  [Meta-level control major projects](#Meta-level-control-major-projects)
 9.  [Benchmarks](#benchmarks)
