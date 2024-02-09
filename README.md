@@ -10,15 +10,16 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 3.  [Featured](#featured)
 4.  [Symbolic Reasoning AI major projects](#Symbolic-Reasoning-AI-major-projects)
 5.  [Knowledge representation major projects](#Knowledge-representation-major-projects)
-6.  [Memory AI major projects](#Memory-AI-major-projects)
-7.  [Meta-level control major projects](#Meta-level-control-major-projects)
-8.  [Benchmarks](#benchmarks)
-9.  [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
-10. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
-11. [Links to other useful GitHub pages](#links-to-other-useful-github-pages)
-12. [Usage](#usage)
-13. [Contributing](#contributing)
-14. [License](#license)
+6.  [Cognitive Architectures and Generative Models](Cognitive-Architectures-and-Generative-Models)
+7.  [Memory AI major projects](#Memory-AI-major-projects)
+8.  [Meta-level control major projects](#Meta-level-control-major-projects)
+9.  [Benchmarks](#benchmarks)
+10.  [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
+11. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
+12. [Links to other useful GitHub pages](#links-to-other-useful-github-pages)
+13. [Usage](#usage)
+14. [Contributing](#contributing)
+15. [License](#license)
 
 Up to week 09 day 04 (just started this week)
 
@@ -67,6 +68,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2018](https://arxiv.org/abs/1805.10872) | DeepProbLog | Neural Probabilistic Logic Programming | [![arXiv 2018](https://img.shields.io/badge/arXiv-2018-brightgreen)](https://arxiv.org/abs/1805.10872) | [![Star](https://img.shields.io/github/stars/ML-KULeuven/deepproblog.svg?style=social)](https://github.com/ML-KULeuven/deepproblog), [![DTAI](https://img.shields.io/badge/Website-DTAI-red)](https://dtai.cs.kuleuven.be/problog/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2018](http://proceedings.mlr.press/v80/xu18h.html) | KBNN | A Semantic Loss Function for Deep Learning with Symbolic Knowledge | [![Conference](https://img.shields.io/badge/Conference-ML'18-blue)](http://proceedings.mlr.press/v80/xu18h.html) | [![Star](https://img.shields.io/github/stars/npepperUQLab/Knowledge-Based-Neural-Network-.svg?style=social)](https://github.com/npepperUQLab/Knowledge-Based-Neural-Network-) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2018](https://arxiv.org/abs/1810.04805) | BERT (Google) | Pre-training of Deep Bidirectional Transformers for Language Understanding | [![arXiv 2018](https://img.shields.io/badge/arXiv-2018-brightgreen)](https://arxiv.org/abs/1810.04805) | [![Star](https://img.shields.io/github/stars/google-research/bert.svg?style=social)](https://github.com/google-research/bert) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2014](https://content.iospress.com/articles/intelligenza-artificiale/ia106) | cplint | A framework for reasoning with Probabilistic Logic Programming | [![arXiv](https://img.shields.io/badge/arXiv-2014-brightgreen)](https://content.iospress.com/articles/intelligenza-artificiale/ia106) | [![GitHub](https://img.shields.io/github/stars/friguzzi/cplint.svg?style=social)](https://github.com/friguzzi/cplint) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2007](https://www.sciencedirect.com/science/article/pii/S030439750600750X) | Modal | Connectionist modal logic: Representing modalities in neural networks | [![ScienceDirect](https://img.shields.io/badge/Conference-ScienceDirect'07-blue)](https://www.sciencedirect.com/science/article/pii/S030439750600750X) | [![Star](https://img.shields.io/github/stars/rkirsling/modallogic.svg?style=social)](https://github.com/rkirsling/modallogic) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2003](https://ieeexplore.ieee.org/document/1200733) | DAMLJessKB | A Tool for Reasoning with the Semantic Web | [![IEEE](https://img.shields.io/badge/Conference-IEEE'03-blue)](https://ieeexplore.ieee.org/document/1200733) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | []() |   |   | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)]() |  [![Star](https://img.shields.io/github/)](https://github.com/)) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
@@ -134,6 +136,14 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 <!-- <img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4"> -->
 
+## Cognitive Architectures and Generative Models
+| Publication Year | Name | Description | Paper Link | GitHub Link |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [2022](https://arxiv.org/abs/2201.09305) | ACT-R VS Soar | An Analysis and Comparison of ACT-R and Soar | [![arXiv](https://img.shields.io/badge/arXiv-2022-brightgreen)](https://arxiv.org/abs/2201.09305) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2023](https://arxiv.org/abs/2309.02427) | CoALA | Cognitive Architectures for Language Agents | [![arXiv](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://arxiv.org/abs/2309.02427) | [![GitHub](https://img.shields.io/github/stars/ysymyth/awesome-language-agents.svg?style=social)](https://github.com/ysymyth/awesome-language-agents) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2023](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27703) | Auto-knowledge-LLM | Automating Knowledge Acquisition for Content-Centric Cognitive Agents Using LLMs | [![arXiv](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27703) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2023](https://arxiv.org/abs/2308.09830) | Symbolic LLM's | Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis | [![arXiv](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://arxiv.org/abs/2308.09830) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+
 
 ## Memory AI major projects
 
@@ -162,7 +172,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 ## Benchmarks 
 
 | Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
-| ---------------- | ---- | ----------- | ---------- | ----------- | ------- 
+| ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
+| [2023](https://github.com/Silin159/ComFact) | ComFact | A Benchmark for Linking Contextual Commonsense Knowledge | [![arXiv](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://github.com/Silin159/ComFact) | [![GitHub](https://img.shields.io/github/stars/Silin159/ComFact.svg?style=social)](https://github.com/Silin159/ComFact) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2023](https://arxiv.org/abs/2310.15239) | Crow |Benchmarking Commonsense Reasoning in Real-World Tasks | [![arXiv](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://arxiv.org/abs/2310.15239) | [![GitHub](https://img.shields.io/github/stars/mismayil/crow.svg?style=social)](https://github.com/mismayil/crow) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2023](https://arxiv.org/abs/2209.06293)  | CaptionCon | A corpus for caption generation models | [![arXiv](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://arxiv.org/abs/2209.06293) | [GitHub](https://github.com/jmhessel/caption_contest_corpus) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2022](https://ceur-ws.org/Vol-3342/paper-8.pdf) | Causal Relation Benchmark | Knowledge Graph Embeddings for Causal Relation Prediction | [![Paper](https://img.shields.io/badge/Conference-CEUR_WS-blue)](https://ceur-ws.org/Vol-3342/paper-8.pdf) | [![Zenodo](https://img.shields.io/github/stars/your-github-username/your-repository.svg?style=social)](https://zenodo.org/records/7195904) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
