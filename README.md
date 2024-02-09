@@ -136,13 +136,13 @@ Cognition within AI is an essential aspect of building machines that can think a
 <!-- <img width="580" alt="image" src="https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/86ac0431-b47a-4582-bdbc-4e7789bbf7d4"> -->
 
 ## Cognitive Architectures and Generative Models
-| Publication Year | Name | Description | Paper Link | GitHub Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+
+| Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
+| ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
 | [2024](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27707) | Generative Methods CMC | Exploring generative methods in the Common Model of Cognition. | [![Paper](https://img.shields.io/badge/Paper-AAAI'24-brightgreen)](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27707) | N/A | <details><summary>Summary</summary>Discusses using Dynamic Causal Modeling for validating CMC, highlighting new methods for model complexity.</details> |
 | [2024](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27710) | LLMs in ACT-R/Soar | Comparing LLMs for enhanced ACT-R and Soar Model Development. | [![Paper](https://img.shields.io/badge/Paper-AAAI'24-brightgreen)](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27710) | N/A | <details><summary>Summary</summary>Examines ChatGPT4 and Google Bard in cognitive task development, proposing a framework for LLM interaction.</details> |
 | [2024](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27690) | LLMs for Cognitive Agents | Using Language Models as knowledge sources for cognitive agents. | [![Paper](https://img.shields.io/badge/Paper-AAAI'24-brightgreen)](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27690) | N/A | <details><summary>Summary</summary>Explores the potential of LLMs in knowledge extraction and integration with cognitive architecture.</details> |
-| [2024](https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2023/nakos_forbus_fss23_aaai_camera_ready.pdf) | [LLM Cog Companion] | [Using Large Language Models in the Companion Cognitive Architecture:
-A Case Study and Future Prospects] | [![Paper](https://img.shields.io/badge/Paper-AAAI'24-brightgreen)](https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2023/nakos_forbus_fss23_aaai_camera_ready.pdf) | N/A | <details><summary>Summary</summary>To be added</details> |
+| [2024](https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2023/nakos_forbus_fss23_aaai_camera_ready.pdf) | LLM Cog Companion | [Using Large Language Models in the Companion Cognitive Architecture: A Case Study and Future Prospects | [![Paper](https://img.shields.io/badge/Paper-AAAI'24-brightgreen)](https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2023/nakos_forbus_fss23_aaai_camera_ready.pdf) | N/A | <details><summary>Summary</summary>To be added</details> |
 | [2024](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27683) | Chunks in Cognitive Arch | Method for generating knowledge chunks in cognitive architectures. | [![Paper](https://img.shields.io/badge/Paper-AAAI'24-brightgreen)](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27683) | [![GitHub](https://img.shields.io/github/stars/.svg?style=social)](https://github.com/w3c/cogai/blob/master/chunks-and-rules.md) | <details><summary>Summary</summary>Introduces NLP-based knowledge chunk creation for enhancing cognitive architecture knowledge bases.</details> |
 | [2024](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27684) | Generative Models in CA | Integrating generative models in cognitive architecture for agents. | [![Paper](https://img.shields.io/badge/Paper-AAAI'24-brightgreen)](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27684) | N/A | <details><summary>Summary</summary>Discusses the integration of generative AI techniques with cognitive architectures, focusing on the ICARUS cognitive architecture.</details> |
 | [2024](https://arxiv.org/abs/2401.17464) | CoA-Reasoning | Efficient Tool Use with Chain-of-Abstraction Reasoning | [![Paper](https://img.shields.io/badge/Paper-arXiv-2024-brightgreen)](https://arxiv.org/abs/2401.17464) | N/A | <details><summary>Summary</summary>To be added</details> |
@@ -155,8 +155,8 @@ A Case Study and Future Prospects] | [![Paper](https://img.shields.io/badge/Pape
 
 ## Memory AI major projects
 
-| Publication Year | Name | Description | Paper Link | GitHub Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
+| ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
 | [2022](https://openreview.net/forum?id=ZVBtN6B_6i7) | Learn2Expire | Learning to Expire: Synthesizing Lifelike Influence Expiry Times for Transformer Recommendations | [![arXiv](https://img.shields.io/badge/arXiv-2022-brightgreen)](https://openreview.net/forum?id=ZVBtN6B_6i7) | [![GitHub](https://img.shields.io/github/stars/lucidrains/learning-to-expire-pytorch.svg?style=social)](https://github.com/lucidrains/learning-to-expire-pytorch) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | []() |   |   | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)]() |  [GitHub](https://img.shields.io/github/stars/Silin159/PeaCoK.svg?style=social)](https://github.com/Silin159/PeaCoK) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 
