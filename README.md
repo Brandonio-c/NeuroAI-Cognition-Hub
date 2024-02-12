@@ -8,19 +8,20 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 1.  [About Neuro-Symbolic AI and the Common Model of Cognition](#about-neuro-symbolic-ai)
 2.  [Cognition in AI - 2024 synopsis](#cognition-in-ai)
 3.  [Featured](#featured)
-4.  [Symbolic Reasoning AI major projects](#Symbolic-Reasoning-AI-major-projects)
-5.  [Knowledge representation major projects](#Knowledge-representation-major-projects)
-6.  [Cognitive Architectures and Generative Models](#Cognitive-Architectures-and-Generative-Models)
-7.  [Common Model of Cognition](#Common-Model-of-Cognition)
-8.  [Memory AI major projects](#Memory-AI-major-projects)
-9.  [Meta-level control major projects](#Meta-level-control-major-projects)
-10.  [Benchmarks](#benchmarks)
-11.  [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
-12. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
-13. [Links to other useful GitHub pages](#links-to-other-useful-github-pages)
-14. [Usage](#usage)
-15. [Contributing](#contributing)
-16. [License](#license)
+4.  [Symbolic Language](#Symbolic-Language)
+5.  [Symbolic Reasoning AI major projects](#Symbolic-Reasoning-AI-major-projects)
+6.  [Knowledge representation major projects](#Knowledge-representation-major-projects)
+7.  [Cognitive Architectures and Generative Models](#Cognitive-Architectures-and-Generative-Models)
+8.  [Common Model of Cognition](#Common-Model-of-Cognition)
+9.  [Memory AI major projects](#Memory-AI-major-projects)
+10.  [Meta-level control major projects](#Meta-level-control-major-projects)
+11. [Benchmarks](#benchmarks)
+12. [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
+13. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
+14. [Links to other useful GitHub pages](#links-to-other-useful-github-pages)
+15. [Usage](#usage)
+16. [Contributing](#contributing)
+17. [License](#license)
 
 Up to week 10 day 00 (just started this week)
 
@@ -41,6 +42,24 @@ Cognition within AI is an essential aspect of building machines that can think a
 - [![Website](https://img.shields.io/badge/Website-Deep_Learning_Is_Hitting_A_Wall-red)](https://nautil.us/deep-learning-is-hitting-a-wall-238440/) - "Deep Learning Is Hitting a Wall" by Gary Marcus.
 
 - [![GitHub](https://img.shields.io/badge/Website-OpenCog-red)](https://github.com/opencog) - Visit the GitHub repository for OpenCog.
+
+## Symbolic Language
+
+
+| Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
+| ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
+| [2023](https://arxiv.org/abs/2309.16467) | CPG | Code property graph framework for software analysis | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://arxiv.org/abs/2309.16467) | [![GitHub](https://img.shields.io/github/stars/.svg?style=social)](https://github.com/IBM/cpg) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2002-22](https://propbank.github.io/) | PropBank | PropBank (proposition bank) approach to semantic role labeling over the last two decades | [![Paper](https://img.shields.io/badge/Paper-ACL'22-blue)](https://aclanthology.org/2022.starsem-1.24/) | [![GitHub](https://img.shields.io/github/stars/propbank/propbank.svg?style=social)](https://github.com/propbank/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2017-22](https://universalpropositions.github.io/) | Universal PropBank | Annotate text in different languages with a layer of "universal" semantic role labeling annotation | [![Website](https://img.shields.io/badge/Website-See_Publications-blue)](https://universalpropositions.github.io/) | [![GitHub](https://img.shields.io/github/stars/UniversalPropositions/UniversalPropBank.svg?style=social)](https://github.com/UniversalPropositions) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2012-18](https://verbs.colorado.edu/verbnet/) | VerbNet | The largest online network of English verbs that links their syntactic and semantic patterns | [![Website](https://img.shields.io/badge/Website-VerbNet-red)](https://verbs.colorado.edu/verbnet/) | [![GitHub](https://img.shields.io/github/stars/cu-clear/verbnet.svg?style=social)](https://github.com/cu-clear/verbnet) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2021](https://aclanthology.org/2021.iwcs-1.21/) | IWCS21 | Semantic linking in computational linguistics | [![Paper](https://img.shields.io/badge/Paper-2021-blue)](https://aclanthology.org/2021.iwcs-1.21/) | [![GitHub](https://img.shields.io/github/stars/.svg?style=social)](https://github.com/cu-clear/semlink) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2019](https://aclanthology.org/N19-1334.pdf) | Wilcox19 | Structural analysis in natural language processing | [![Paper](https://img.shields.io/badge/Paper-N19--1334-blue)](https://aclanthology.org/N19-1334.pdf) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2017](https://users.cs.utah.edu/~lifeifei/papers/deeplog.pdf) | DeepLog | Anomaly detection in system logs through deep learning | [![arXiv ](https://img.shields.io/badge/arXiv-2017-brightgreen)](https://users.cs.utah.edu/~lifeifei/papers/deeplog.pdf) | [![GitHub](https://img.shields.io/github/stars/.svg?style=social)](https://github.com/Thijsvanede/DeepLog) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2015](https://aclanthology.org/Q15-1034/) | Q15-1034 | Semantic proto role linking model | [![Paper](https://img.shields.io/badge/Paper-Q15--1034-blue)](https://aclanthology.org/Q15-1034/) | [![GitHub](https://img.shields.io/github/stars/.svg?style=social)](https://github.com/aaronstevenwhite/SemanticProtoRoleLinkingModel?tab=readme-ov-file) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [2003](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/5416/file/Johnson_Petruck_Baker_Ellsworth_Ruppenhofer_Fillmore_FrameNet_Theory_and_Practice_2003.pdf) | FrameNet | Linguistic theory and practice analysis | [![Paper](https://img.shields.io/badge/Paper-2003-blue)](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/5416/file/Johnson_Petruck_Baker_Ellsworth_Ruppenhofer_Fillmore_FrameNet_Theory_and_Practice_2003.pdf) | [![GitHub](https://img.shields.io/github/stars/.svg?style=social)](https://framenet.icsi.berkeley.edu/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+| [1993](https://aclanthology.org/J93-2004/) | J93-2004 | Linguistic data consortium analysis | [![Paper](https://img.shields.io/badge/Paper-J93--2004-blue)](https://aclanthology.org/J93-2004/) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
+
+
 
 ## Symbolic Reasoning AI major projects
 
@@ -100,8 +119,6 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2022](https://www.ijcai.org/proceedings/2022/850) | Foresee | Knowledge-Based News Event Analysis and Forecasting Toolkit | [![Paper](https://img.shields.io/badge/Paper-IJCAI'22-blue)](https://www.ijcai.org/proceedings/2022/850) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2022](https://soargroup.github.io/rosie/) | ROSIE (from SOAR) | Rosie (RObotic Soar Instructable Entity) is an agent written in the Soar Cognitive Architecture | [![Website](https://img.shields.io/badge/Website-See_Details-blue)](https://soar.eecs.umich.edu/) | [![GitHub](https://img.shields.io/github/stars/SoarGroup/rosie.svg?style=social)](https://github.com/SoarGroup/rosie) |  <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2018-22](https://soar.eecs.umich.edu/) | SOAR | Soar Cognitive Architecture | [![Website](https://img.shields.io/badge/Website-See_Details-blue)](https://soar.eecs.umich.edu/) | [![GitHub](https://img.shields.io/github/stars/SoarGroup/Soar.svg?style=social)](https://github.com/SoarGroup/Soar) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
-| [2002-22](https://propbank.github.io/) | PropBank | PropBank (proposition bank) approach to semantic role labeling over the last two decades | [![Paper](https://img.shields.io/badge/Paper-ACL'22-blue)](https://aclanthology.org/2022.starsem-1.24/) | [![GitHub](https://img.shields.io/github/stars/propbank/propbank.svg?style=social)](https://github.com/propbank/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
-| [2017-22](https://universalpropositions.github.io/) | Universal PropBank | Annotate text in different languages with a layer of "universal" semantic role labeling annotation | [![Website](https://img.shields.io/badge/Website-See_Publications-blue)](https://universalpropositions.github.io/) | [![GitHub](https://img.shields.io/github/stars/UniversalPropositions/UniversalPropBank.svg?style=social)](https://github.com/UniversalPropositions) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2021](https://arxiv.org/abs/2110.10963) | Neuro-Symbolic RL | Neuro-Symbolic Reinforcement Learning with First-Order Logic | [![Paper](https://img.shields.io/badge/Paper-arXiv'21-brightgreen)](https://arxiv.org/abs/2110.10963) | [![Toolkit](https://img.shields.io/badge/Toolkit-IBM-red)](https://ibm.github.io/neuro-symbolic-ai/toolkit/) | <details><summary>Summary</summary>To be added</details> |
 | [2021](https://aclanthology.org/2021.emnlp-main.245/) | Neuro-Symbolic learning | Neuro-Symbolic Approaches for Text-Based Policy Learning | [![Paper](https://img.shields.io/badge/Paper-EMNLP'21-blue)](https://aclanthology.org/2021.emnlp-main.245/) | N/A | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2021](https://arxiv.org/abs/2104.08811) | Human Schema | Human Schema Curation via Causal Association Rule Mining | [![Paper](https://img.shields.io/badge/Paper-arXiv'21-brightgreen)](https://arxiv.org/abs/2104.08811) | [![Links](https://img.shields.io/badge/Links-Inside_Paper-blue)](https://arxiv.org/abs/2104.08811) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
@@ -119,7 +136,6 @@ Cognition within AI is an essential aspect of building machines that can think a
 | [2019](https://arxiv.org/abs/1911.02060) | KBTE | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks | [![Paper](https://img.shields.io/badge/Paper-arXiv'19-brightgreen)](https://arxiv.org/abs/1911.02060) | [![GitHub](https://img.shields.io/github/stars/IBM/knowledge-enabled-textual-entailment.svg?style=social)](https://github.com/IBM/knowledge-enabled-textual-entailment) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2019](https://www.arxiv-vanity.com/papers/1906.05317/) | COMET | Commonsense Transformers for Automatic Knowledge Graph Construction | [![Paper](https://img.shields.io/badge/Paper-arXiv'19-brightgreen)](https://arxiv.org/abs/1906.05317) | [![GitHub](https://img.shields.io/github/stars/atcbosselut/comet-commonsense.svg?style=social)](https://github.com/atcbosselut/comet-commonsense) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2018](https://github.com/microsoft/jericho) | Jericho | A lightweight python-based interface connecting learning agents with interactive fiction games | N/A | [![GitHub](https://img.shields.io/github/stars/microsoft/jericho.svg?style=social)](https://github.com/microsoft/jericho) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
-| [2012-18](https://verbs.colorado.edu/verbnet/) | VerbNet | The largest online network of English verbs that links their syntactic and semantic patterns | [![Website](https://img.shields.io/badge/Website-VerbNet-red)](https://verbs.colorado.edu/verbnet/) | [![GitHub](https://img.shields.io/github/stars/cu-clear/verbnet.svg?style=social)](https://github.com/cu-clear/verbnet) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2018](https://api.semanticscholar.org/CorpusID:202558974) | ProPara | Comprehension of simple paragraphs describing processes | [![Paper](https://img.shields.io/badge/Paper-SemanticScholar'18-blue)](https://api.semanticscholar.org/CorpusID:202558974) | [![AllenAI](https://img.shields.io/badge/AllenAI-ProPara-red)](https://allenai.org/data/propara) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2017](https://www.nas.gov.ua/text/EuropeanIntegration/HR001117S0026%20(AIDA).pdf) | DARPA AIDA | Active Interpretation of Disparate Alternatives | [![Paper](https://img.shields.io/badge/Paper-DARPA'17-blue)](https://www.nas.gov.ua/text/EuropeanIntegration/HR001117S0026%20(AIDA).pdf) | [![DARPA](https://img.shields.io/badge/DARPA-AIDA-red)](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
 | [2016](https://arxiv.org/abs/1612.03975) | ConceptNet (5.5) | An Open Multilingual Graph of General Knowledge | [![Paper](https://img.shields.io/badge/Paper-arXiv'16-brightgreen)](https://arxiv.org/abs/1612.03975) | [![GitHub](https://img.shields.io/github/stars/commonsense/conceptnet5.svg?style=social)](https://github.com/commonsense/conceptnet5/), [![ConceptNet](https://img.shields.io/badge/Website-ConceptNet-red)](https://conceptnet.io/) | <details><summary>Summary</summary>To be added<br>- To be added<br>- To be added</details> |
