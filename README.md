@@ -8,20 +8,21 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 1.  [About Neuro-Symbolic AI and the Common Model of Cognition](#about-neuro-symbolic-ai)
 2.  [Cognition in AI - 2024 synopsis](#cognition-in-ai)
 3.  [Featured](#featured)
-4.  [Symbolic Language](#Symbolic-Language)
-5.  [Symbolic Reasoning AI major projects](#Symbolic-Reasoning-AI-major-projects)
-6.  [Knowledge representation major projects](#Knowledge-representation-major-projects)
-7.  [Cognitive Architectures and Generative Models](#Cognitive-Architectures-and-Generative-Models)
-8.  [Common Model of Cognition](#Common-Model-of-Cognition)
-9.  [Memory AI major projects](#Memory-AI-major-projects)
-10.  [Meta-level control major projects](#Meta-level-control-major-projects)
-11. [Benchmarks](#benchmarks)
-12. [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
-13. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
-14. [Links to other useful GitHub pages](#links-to-other-useful-github-pages)
-15. [Usage](#usage)
-16. [Contributing](#contributing)
-17. [License](#license)
+4.  [Survey papers](#Survey-Papers)
+5.  [Symbolic Language](#Symbolic-Language)
+6.  [Symbolic Reasoning AI major projects](#Symbolic-Reasoning-AI-major-projects)
+7.  [Knowledge representation major projects](#Knowledge-representation-major-projects)
+8.  [Cognitive Architectures and Generative Models](#Cognitive-Architectures-and-Generative-Models)
+9.  [Common Model of Cognition](#Common-Model-of-Cognition)
+10.  [Memory AI major projects](#Memory-AI-major-projects)
+11.  [Meta-level control major projects](#Meta-level-control-major-projects)
+12. [Benchmarks](#benchmarks)
+13. [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
+14. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
+15. [Links to other useful GitHub pages](#links-to-other-useful-github-pages)
+16. [Usage](#usage)
+17. [Contributing](#contributing)
+18. [License](#license)
 
 Up to week 10 day 00 (just started this week)
 
@@ -45,8 +46,13 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 - [![Website](https://img.shields.io/badge/Website-IHMC-red)](https://www.ihmc.us/publications-on-explainable-ai/) - Publications on Explainable AI
 
-## Symbolic Language
+## Survey Papers
+| Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
+| ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
+| [2021](https://arxiv.org/abs/2109.06133) | NSAI | Neuro-symbolic AI (NSAI) integration of rules-based AI with deep learning, improving image/video reasoning with less data | [![arXiv ](https://img.shields.io/badge/arXiv-2023-brightgreen)](https://arxiv.org/abs/2109.06133) | [![GitHub](https://img.shields.io/github/stars/vacancy/NSCL-PyTorch-Release.svg?style=social)](https://github.com/vacancy/NSCL-PyTorch-Release), [![GitHub](https://img.shields.io/github/stars/chuangg/CLEVRER.svg?style=social)](https://github.com/chuangg/CLEVRER), N/A, N/A, N/A, [![GitHub](https://img.shields.io/github/stars/google/neural-logic-machines.svg?style=social)](https://github.com/google/neural-logic-machines) | <details><summary>Summary</summary>Neuro-symbolic AI (NSAI) represents a novel integration of traditional rules-based AI approaches with modern deep learning techniques, offering advancements in image and video reasoning while reducing the need for extensive training data. This paper provides an in-depth analysis of three distinct NSAI models: the Neuro-Symbolic Concept Learner (NSCL), Neuro-Symbolic Dynamic Reasoning (NS-DR), and Neural Logic Machines (NLM). While NSCL and NS-DR are composed of several submodels including image/video parsers and symbolic executors, NLM functions as an end-to-end model. The analysis reveals that NSAI models generally exhibit less potential for parallelism compared to traditional neural models, primarily due to their complex control flow and operations such as scalar multiplication. Data movement is highlighted as a potential bottleneck, similar to other machine learning workloads. The paper categorizes the operations within NSAI models into eight types for performance analysis, suggesting that while the neural components often dominate, there are opportunities for acceleration, especially in handling low-operational-intensity operations.</details> |
 
+
+## Symbolic Language
 
 | Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
 | ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
