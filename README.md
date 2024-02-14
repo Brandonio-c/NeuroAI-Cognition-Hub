@@ -43,6 +43,8 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 - [![GitHub](https://img.shields.io/badge/Website-OpenCog-red)](https://github.com/opencog) - Visit the GitHub repository for OpenCog.
 
+- [![Website](https://img.shields.io/badge/Website-IHMC-red)](https://www.ihmc.us/publications-on-explainable-ai/) - Publications on Explainable AI
+
 ## Symbolic Language
 
 
