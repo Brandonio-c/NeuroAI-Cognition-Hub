@@ -1,4 +1,4 @@
-![image](https://github.com/Brandonio-c/NeuroAI-Cognition-Hub/assets/76982807/fdd37bc1-9607-47ff-8348-67691ee0103d)# NeuroAI-Cognition-Hub
+# NeuroAI-Cognition-Hub
 ## Neuro-Symbolic AI and Cognition Links
 
 Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository is a curated collection of resources, links, and references related to the exciting field of neuro-symbolic artificial intelligence, with a specific focus on cognition within AI. Whether you're a researcher, student, or AI enthusiast, this repository aims to provide valuable information and references to help you dive deeper into this evolving field.  Dive into the world of cognitive models, architectures, and AI systems that aim to simulate human-like thinking processes. Stay up-to-date with the latest developments and research in this cutting-edge domain, and contribute to our growing repository to help advance the field even further. Join us in the exploration of the fascinating intersection of neuroscience, symbolic reasoning, and AI cognition.
