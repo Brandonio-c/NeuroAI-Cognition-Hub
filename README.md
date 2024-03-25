@@ -41,11 +41,14 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 ## Featured 
 
+- [![Website](https://img.shields.io/badge/Website-HuggingFace-red)](https://huggingface.co/) - AI model and dataset repository
+
 - [![Website](https://img.shields.io/badge/Website-Deep_Learning_Is_Hitting_A_Wall-red)](https://nautil.us/deep-learning-is-hitting-a-wall-238440/) - "Deep Learning Is Hitting a Wall" by Gary Marcus.
 
 - [![GitHub](https://img.shields.io/badge/Website-OpenCog-red)](https://github.com/opencog) - Visit the GitHub repository for OpenCog.
 
 - [![Website](https://img.shields.io/badge/Website-IHMC-red)](https://www.ihmc.us/publications-on-explainable-ai/) - Publications on Explainable AI
+
 
 ## Survey Papers
 
