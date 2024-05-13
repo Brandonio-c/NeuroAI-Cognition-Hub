@@ -21,9 +21,10 @@ Welcome to the Neuro-Symbolic AI and Cognition Links repository. This repository
 14. [Generative AI Impactful Projects](#Generative-AI-Impactful-Projects)
 15. [Useful AI tools (2024) - There's literally an AI for everything](#useful-ai-tools-2024---theres-literally-an-ai-for-everything)
 16. [Links to other useful GitHub pages](#links-to-other-useful-github-pages)
-17. [Usage](#usage)
-18. [Contributing](#contributing)
-19. [License](#license)
+17. [Books](#books)
+18. [Usage](#usage)
+19. [Contributing](#contributing)
+20. [License](#license)
 
 Up to week 10 day 00 (just started this week)
 
@@ -429,6 +430,12 @@ Cognition within AI is an essential aspect of building machines that can think a
 - [![Star](https://img.shields.io/github/stars/asahi417/AnalogyTools.svg?style=social)](https://github.com/asahi417/AnalogyTools) [AnalogyTools](https://github.com/asahi417/AnalogyTools) - Repository dedicated to tools for analogy-based learning and reasoning in AI.
 - [![Star](https://img.shields.io/github/stars/totogo/awesome-knowledge-graph.svg?style=social)](https://github.com/totogo/awesome-knowledge-graph) [Awesome-Knowledge-Graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of awesome knowledge graph resources, papers, and tools.
 
+
+## Books
+
+| Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
+| ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
+| [2023](https://www.packtpub.com/product/neuro-symbolic-ai/9781804617625) | Neuro-Symbolic AI | Design transparent and trustworthy systems that understand the world as you do | [![Book](https://img.shields.io/badge/Book)](https://www.packtpub.com/product/neuro-symbolic-ai/9781804617625) | N/A | <details><summary>Summary</summary> "Neuro-Symbolic AI: Design Transparent and Trustworthy Systems That Understand the World as You Do" by Alexiei Dingli and David Farrugia explores the emerging field of neuro-symbolic AI (NSAI), which combines the strengths of symbolic AI and neural networks to create systems capable of human-like reasoning. The book begins with a historical overview of AI, covering the evolution and limitations of traditional AI, symbolic AI, and neural networks. It highlights the need for explainable AI (XAI), emphasizing transparency and interpretability as critical components for the future of AI systems. The authors delve into the principles and mechanics of NSAI, presenting it as the next level of AI that addresses the shortcomings of purely symbolic or neural approaches. NSAI leverages the pattern recognition capabilities of neural networks and the reasoning abilities of symbolic AI, creating hybrid models that offer both high performance and transparency. The book discusses various NSAI architectures, such as the Neuro-Symbolic Concept Learner (NSCL) and Neuro-Symbolic Dynamic Reasoning (NSDR), showcasing their applications in fields like health, education, and finance. Practical programming techniques for implementing NSAI are provided, with hands-on examples in Python to help readers apply the concepts in real-world scenarios. The authors also explore future AI developments, including quantum computing, neuromorphic engineering, and brain-computer interaction, while addressing the ethical implications and challenges associated with these advancements. Targeted at data scientists, ML engineers, and AI enthusiasts, this book aims to provide a comprehensive understanding of NSAI and its potential to revolutionize AI systems. By combining theory with practical applications and real-world examples, Dingli and Farrugia offer a valuable resource for those looking to stay at the forefront of AI innovation </details> |
 
 ## Usage
 
