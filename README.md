@@ -16,6 +16,8 @@ function countdown(date) {
 document.getElementById("countdown-iclr").innerText = countdown("Sep 27, 2024");
 </script>
 
+<!-- In your README.md -->
+
 # NeuroAI-Cognition-Hub
 ## Neuro-Symbolic AI and Cognition Links
 
