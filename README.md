@@ -54,7 +54,30 @@ Cognition within AI is an essential aspect of building machines that can think a
 ## Upcoming Conferences / Symposia
 
 
-## Survey Papers
+| Conference / Symposia Name | Location | Abstract Submission Date | Paper Submission Date |
+|----------------------------|----------|--------------------------|-----------------------|
+| **[AAAI-25 Fall Symposium Series](https://aaai.org)** | Washington, D.C., USA | <span style="color:red"><s>August 2, 2024</s></span> | <span style="color:red"><s>August 2, 2024</s></span> |
+| **[ICLR 2025 (International Conference on Learning Representations)](https://iclr.cc)** | Singapore EXPO, Singapore | September 27, 2024 | October 1, 2024 |
+| **[AISTATS 2025 (International Conference on Artificial Intelligence and Statistics)](https://aistats.org)** | TBA | Expected October 2024 | Expected October 2024 |
+| **[IEEE ICRA 2025 (International Conference on Robotics and Automation)](https://www.icra2025.org)** | TBA | Expected September 2024 | Expected November 2024 |
+| **[IEEE CVPR 2025 (Conference on Computer Vision and Pattern Recognition)](https://www.cvpr2025.org)** | TBA | Expected November 2024 | Expected November 2024 |
+| **[AAMAS 2025 (International Conference on Autonomous Agents and Multiagent Systems)](https://www.aamas-conference.org)** | TBA | Expected December 2024 | Expected December 2024 |
+| **[ACL 2025 (Association for Computational Linguistics)](https://acl2025.org)** | TBA | Expected January 2025 | Expected January 2025 |
+| **[IJCAI-25 (International Joint Conference on Artificial Intelligence 2025)](https://www.ijcai.org)** | Montreal, Canada | Expected January 2025 | Expected January 2025 |
+| **[IEEE ISIT 2025 (International Symposium on Information Theory)](https://www.isit2025.org)** | TBA | Expected January 2025 | Expected January 2025 |
+| **[ACM SIGIR 2025 (Special Interest Group on Information Retrieval)](https://sigir.org)** | TBA | Expected January 2025 | Expected February 2025 |
+| **[ICML 2025 (International Conference on Machine Learning)](https://icml.cc)** | TBA | Expected February 2025 | Expected February 2025 |
+| **[ECAI 2025 (European Conference on Artificial Intelligence)](https://www.ecai2025.org)** | TBA | Expected March 2025 | Expected April 2025 |
+| **[ACM SIGKDD 2025 (Knowledge Discovery and Data Mining)](https://www.kdd.org)** | TBA | Expected March 2025 | Expected April 2025 |
+| **[ACM CHI 2025 (Conference on Human Factors in Computing Systems)](https://chi2025.acm.org)** | TBA | Expected Fall 2024 | Expected Fall 2024 |
+| **[ACM SIGGRAPH 2025 (Computer Graphics and Interactive Techniques)](https://s2025.siggraph.org)** | TBA | Expected Early 2025 | Expected Early 2025 |
+| **[NeurIPS 2025 (Conference on Neural Information Processing Systems)](https://neurips.cc)** | TBA | Expected May 2025 | Expected May 2025 |
+| **[AAAI-25 Main Technical Track](https://aaai.org)** | Philadelphia, Pennsylvania, USA | August 7, 2024 | August 15, 2024 |
+| **[AI for Social Impact](https://aaai.org)** | Philadelphia, Pennsylvania, USA | August 7, 2024 | August 15, 2024 |
+| **[AI Alignment](https://aaai.org)** | Philadelphia, Pennsylvania, USA | August 7, 2024 | August 15, 2024 |
+| **[IAAI-25 (Innovative Applications of AI)](https://aaai.org)** | Philadelphia, Pennsylvania, USA | September 2, 2024 | September 16, 2024 |
+| **[EAAI-25 (Educational Advances in AI)](https://aaai.org)** | Philadelphia, Pennsylvania, USA | September 9, 2024 | September 16, 2024 |
+
 
 | Publication Year | Name | Description | Paper Link | GitHub Link | Summary |
 | ---------------- | ---- | ----------- | ---------- | ----------- | ------- |
