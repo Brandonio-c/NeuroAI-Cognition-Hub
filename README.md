@@ -1,23 +1,3 @@
-<!-- Countdown Timer -->
-<script>
-function countdown(date) {
-  var countDownDate = new Date(date).getTime();
-  var now = new Date().getTime();
-  var distance = countDownDate - now;
-
-  if (distance < 0) {
-    return "Date Passed";
-  }
-
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  return days + " days remaining";
-}
-
-document.getElementById("countdown-iclr").innerText = countdown("Sep 27, 2024");
-</script>
-
-<!-- In your README.md -->
-
 # NeuroAI-Cognition-Hub
 ## Neuro-Symbolic AI and Cognition Links
 
@@ -71,7 +51,7 @@ Cognition within AI is an essential aspect of building machines that can think a
 - [![Website](https://img.shields.io/badge/Website-IHMC-red)](https://www.ihmc.us/publications-on-explainable-ai/) - Publications on Explainable AI
 
 
-
+## Upcoming Conferences / Symposia
 
 
 ## Survey Papers
