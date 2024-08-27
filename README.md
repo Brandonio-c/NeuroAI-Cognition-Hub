@@ -56,14 +56,10 @@ Cognition within AI is an essential aspect of building machines that can think a
 
 | Conference / Symposia Name | Location | Abstract Submission Date | Paper Submission Date |
 |----------------------------|----------|--------------------------|-----------------------|
-| **[AAAI-25 Fall Symposium Series](https://aaai.org)** | Washington, D.C., USA | <span style="color:red"><s>August 2, 2024</s></span> | <span style="color:red"><s>August 2, 2024</s></span> |
-| **[AAAI-25 Main Technical Track](https://aaai.org)** | Philadelphia, Pennsylvania, USA | <span style="color:red"><s>August 7, 2024</s></span> | <span style="color:red"><s>August 15, 2024</s></span> |
-| **[AI for Social Impact](https://aaai.org)** | Philadelphia, Pennsylvania, USA | <span style="color:red"><s>August 7, 2024</s></span> | <span style="color:red"><s>August 15, 2024</s></span> |
-| **[AI Alignment](https://aaai.org)** | Philadelphia, Pennsylvania, USA | <span style="color:red"><s>August 7, 2024</s></span> | <span style="color:red"><s>August 15, 2024</s></span> |
-| **[IAAI-25 (Innovative Applications of AI)](https://aaai.org)** | Philadelphia, Pennsylvania, USA | September 2, 2024 | September 16, 2024 |
-| **[EAAI-25 (Educational Advances in AI)](https://aaai.org)** | Philadelphia, Pennsylvania, USA | September 9, 2024 | September 16, 2024 |
+| **[AAAI-25 Fall Symposium Series](https://aaai.org/conference/aaai/aaai-25/)** | Washington, D.C., USA | <span style="color:red"><s>August 7, 2024</s></span> | <span style="color:red"><s>August 15, 2024</s></span> |
+| **[EAAI-25 (Educational Advances in AI)](https://eaai-conf.github.io/year/eaai-25.html)** | Philadelphia, Pennsylvania, USA | September 9, 2024 | September 16, 2024 |
+| **[IEEE ICRA 2025 (International Conference on Robotics and Automation)](https://2025.ieee-icra.org/announcements/paper-submissions/)** | TBA | 15 September 2024 | 15 November 2024 |
 | **[ICLR 2025 (International Conference on Learning Representations)](https://iclr.cc)** | Singapore EXPO, Singapore | September 27, 2024 | October 1, 2024 |
-| **[IEEE ICRA 2025 (International Conference on Robotics and Automation)](https://www.icra2025.org)** | TBA | Expected September 2024 | Expected November 2024 |
 | **[AISTATS 2025 (International Conference on Artificial Intelligence and Statistics)](https://aistats.org)** | TBA | Expected October 2024 | Expected October 2024 |
 | **[IEEE CVPR 2025 (Conference on Computer Vision and Pattern Recognition)](https://www.cvpr2025.org)** | TBA | Expected November 2024 | Expected November 2024 |
 | **[AAMAS 2025 (International Conference on Autonomous Agents and Multiagent Systems)](https://www.aamas-conference.org)** | TBA | Expected December 2024 | Expected December 2024 |
