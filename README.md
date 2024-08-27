@@ -1,3 +1,21 @@
+<!-- Countdown Timer -->
+<script>
+function countdown(date) {
+  var countDownDate = new Date(date).getTime();
+  var now = new Date().getTime();
+  var distance = countDownDate - now;
+
+  if (distance < 0) {
+    return "Date Passed";
+  }
+
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  return days + " days remaining";
+}
+
+document.getElementById("countdown-iclr").innerText = countdown("Sep 27, 2024");
+</script>
+
 # NeuroAI-Cognition-Hub
 ## Neuro-Symbolic AI and Cognition Links
 
