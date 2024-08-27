@@ -51,7 +51,6 @@ Cognition within AI is an essential aspect of building machines that can think a
 - [![Website](https://img.shields.io/badge/Website-IHMC-red)](https://www.ihmc.us/publications-on-explainable-ai/) - Publications on Explainable AI
 
 
-## Upcoming Conferences / Symposia 
 
 
 
